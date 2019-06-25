@@ -12,10 +12,8 @@ def get_cards():
     url = base_url + '?' + url_params
     with urllib.request.urlopen(url) as response:
         cards_json = json.loads(response.read())
-        with open('cards.json', 'w', encoding='utf-8') as outfile:
+        with open('json/cards.json', 'w', encoding='utf-8') as outfile:
             json.dump(cards_json['data'], outfile, ensure_ascii=False, indent=2)
-
-
 
 def main() :
     get_cards()
