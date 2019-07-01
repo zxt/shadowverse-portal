@@ -35,10 +35,11 @@ def create_db():
                 restricted_count INTEGER,
                 FOREIGN KEY(card_set_id) REFERENCES card_sets(id),
                 FOREIGN KEY(char_type) REFERENCES card_types(id),
-                FOREIGN KEY(clan) REFERENCES crafts(id)
+                FOREIGN KEY(clan) REFERENCES crafts(id),
+                FOREIGN KEY(rarity) REFERENCES card_rarity(id)
             )""")
 
-        tables = ('card_sets', 'card_types', 'crafts')
+        tables = ('card_sets', 'card_types', 'crafts', 'card_rarity')
         for t in tables:
             cur.execute("""CREATE TABLE {0} (
                             id INTEGER PRIMARY KEY,
@@ -72,6 +73,12 @@ def populate_metadata_tables():
                  (90000, 'Tokens')
                 ]
 
+    CARD_RARITYS = [(1, 'Bronze'),
+                    (2, 'Silver'),
+                    (3, 'Gold'),
+                    (4, 'Legendary')
+                   ]
+
     CARD_TYPES = [(1, 'Follower'),
                   (2, 'Amulet'),
                   (3, 'Countdown Amulet'),
@@ -98,6 +105,8 @@ def populate_metadata_tables():
             cur.execute('INSERT INTO card_types values (?,?)', ctype)
         for craft in CRAFTS:
             cur.execute('INSERT INTO crafts values (?,?)', craft)
+        for rarity in CARD_RARITYS:
+            cur.execute('INSERT INTO card_rarity values (?,?)', rarity)
 
 def populate_cards_table():
     filtered_card_list = []
