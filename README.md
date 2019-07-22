@@ -1,2 +1,2 @@
-# shadowverse-json
-Shadowverse json files and scripts
+# shadowverse-portal
+Python wrappers around API calls to shadowverse-portal and related files
