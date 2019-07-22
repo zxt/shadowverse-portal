@@ -25,21 +25,16 @@ def strip_whitespace(json_data):
         else:
             strip_whitespace(value) # recursive call
 
-def get_cards():
+def get_cards(clan=None):
     base_url = 'https://shadowverse-portal.com/api/v1/cards'
     data = {}
     data['format'] = 'json'
     data['lang'] = 'en'
+    if clan is not None:
+        data['clan'] = clan
     url_params = urllib.parse.urlencode(data)
     url = base_url + '?' + url_params
     with urllib.request.urlopen(url) as response:
         cards_json = json.loads(response.read())
         strip_whitespace(cards_json)
-        with open('json/cards.json', 'w', encoding='utf-8') as outfile:
-            json.dump(cards_json['data'], outfile, ensure_ascii=False, indent=2)
-
-def main() :
-    get_cards()
-
-if __name__ == "__main__":
-    main()
+        return cards_json['data']

@@ -47,7 +47,7 @@ def create_db():
                             name TEXT
                         )""".format(t))
 
-def populate_metadata_tables():
+def populate_lookup_tables():
     CARD_SETS = [(10000, 'Basic'),
                  (10001, 'Standard'),
                  (10002, 'Darkness Evolved'),
@@ -111,7 +111,7 @@ def populate_metadata_tables():
 
 def populate_cards_table():
     filtered_card_list = []
-    with open('json/cards.json', 'r', encoding='utf-8') as infile:
+    with open('json/all.json', 'r', encoding='utf-8') as infile:
         keys = ['card_id',
                 'card_set_id',
                 'card_name',
@@ -152,7 +152,7 @@ def populate_cards_table():
 
 def main():
     create_db()
-    populate_metadata_tables()
+    populate_lookup_tables()
     populate_cards_table()
 
 if __name__ == "__main__":
