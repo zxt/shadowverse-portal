@@ -26,6 +26,19 @@ def strip_whitespace(json_data):
             strip_whitespace(value) # recursive call
 
 def get_cards(clan=None):
+    """
+    This fetches cards in json format from shadowverse-portal
+    and decodes it into python objects
+
+    Args:
+        clan: The craft/class to filter results by. 
+              Defaults to None (no filter, returns all cards)
+
+    Returns:
+        A dict with key 'cards' which contains a list of individual
+        card dicts
+
+    """
     base_url = 'https://shadowverse-portal.com/api/v1/cards'
     data = {}
     data['format'] = 'json'

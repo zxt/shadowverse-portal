@@ -17,7 +17,7 @@ def get_hash(deck_code):
             1.6.6YBRY.6b_5S.5_pF2.6Y8W2.6YAyI.6YFqo.6fmoW.6jiFy.6nP42 [...]
 
     Raises:
-        ValueError: The deck code provided is invalid or has expired
+        ValueError: The deck code provided is invalid or has expired.
 
     """
     base_url = 'https://shadowverse-portal.com/api/v1/deck/import'
@@ -37,10 +37,10 @@ def get_hash(deck_code):
 
 def get_deck(deck_hash):
     """
-    This generates a deck with the given deck hash
+    This generates a deck with the given deck hash.
 
     Args:
-        deck_hash: A deck hash returned by a call to get_hash()
+        deck_hash: A deck hash returned by a call to get_hash().
 
     Returns:
         A dictionary containing info about the deck generated.
