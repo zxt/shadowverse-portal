@@ -71,6 +71,7 @@ def populate_lookup_tables():
                  (70008, 'Princess Connect! Re:Dive Tie-in'),
                  (70009, 'One-Punch Man Tie-in'),
                  (70010, 'Re:ZERO Tie-in'),
+                 (70011, 'Prebuilt Decks Set 6'),
                  (90000, 'Tokens')
                 ]
 
