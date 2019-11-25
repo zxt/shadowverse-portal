@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="svportal",
-    version="0.3.1",
+    version="0.3.5",
     author="Zhao Tang",
     author_email="zxt@zhaotang.ca",
     description="Python API wrappers around shadowverse-portal",
