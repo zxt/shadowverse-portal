@@ -26,6 +26,7 @@ CARD_SETS = [(10000, 'Basic'),
              (70011, 'Prebuilt Decks Set 6'),
              (70012, 'Love Live! School Idol Festival Tie-in'),
              (70013, 'The Melancholy of Haruhi Suzumiya Tie-in'),
+             (70014, 'Prebuilt Decks Set 7'),
              (90000, 'Tokens')
             ]
 
