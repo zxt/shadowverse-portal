@@ -14,6 +14,7 @@ CARD_SETS = [(10000, 'Basic'),
              (10013, 'Rebirth of Glory'),
              (10014, 'Verdant Conflict'),
              (10015, 'Ultimate Colosseum'),
+             (10016, 'World Uprooted'),
              (70001, 'Prebuilt Decks Set 1'),
              (70002, 'Prebuilt Decks Set 2'),
              (70003, 'Anigera Didoooon Tie-in'),
@@ -27,6 +28,7 @@ CARD_SETS = [(10000, 'Basic'),
              (70012, 'Love Live! School Idol Festival Tie-in'),
              (70013, 'The Melancholy of Haruhi Suzumiya Tie-in'),
              (70014, 'Prebuilt Decks Set 7'),
+             (70015, 'The Idolmaster: Cinderella Girls Tie-in'),
              (90000, 'Tokens')
             ]
 
