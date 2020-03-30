@@ -31,7 +31,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 900111020,
-      "tokens": null,
       "normal_card_id": 900111020,
       "format_type": 0,
       "restricted_count": 3
@@ -67,7 +66,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 110124010,
-      "tokens": null,
       "normal_card_id": 110124010,
       "format_type": 0,
       "restricted_count": 3
@@ -103,7 +101,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 900134040,
-      "tokens": null,
       "normal_card_id": 900134040,
       "format_type": 0,
       "restricted_count": 3
@@ -139,7 +136,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 900134050,
-      "tokens": null,
       "normal_card_id": 900134050,
       "format_type": 0,
       "restricted_count": 3
@@ -175,7 +171,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 900144020,
-      "tokens": null,
       "normal_card_id": 900144020,
       "format_type": 0,
       "restricted_count": 3
@@ -211,7 +206,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 900144030,
-      "tokens": null,
       "normal_card_id": 900144030,
       "format_type": 0,
       "restricted_count": 3
@@ -247,7 +241,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 100111010,
-      "tokens": null,
       "normal_card_id": 100111010,
       "format_type": 1,
       "restricted_count": 3
@@ -283,7 +276,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101111010,
-      "tokens": null,
       "normal_card_id": 101111010,
       "format_type": 0,
       "restricted_count": 3
@@ -319,7 +311,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101111020,
-      "tokens": null,
       "normal_card_id": 101111020,
       "format_type": 0,
       "restricted_count": 3
@@ -355,7 +346,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 103111050,
-      "tokens": null,
       "normal_card_id": 103111050,
       "format_type": 0,
       "restricted_count": 3
@@ -391,7 +381,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 110141020,
-      "tokens": null,
       "normal_card_id": 110141020,
       "format_type": 0,
       "restricted_count": 3
@@ -427,7 +416,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 111111030,
-      "tokens": null,
       "normal_card_id": 111111030,
       "format_type": 0,
       "restricted_count": 3
@@ -463,7 +451,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 112111030,
-      "tokens": null,
       "normal_card_id": 112111030,
       "format_type": 1,
       "restricted_count": 3
@@ -499,7 +486,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 113131010,
-      "tokens": null,
       "normal_card_id": 113131010,
       "format_type": 1,
       "restricted_count": 3
@@ -535,7 +521,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 113131030,
-      "tokens": null,
       "normal_card_id": 113131030,
       "format_type": 1,
       "restricted_count": 3
@@ -571,7 +556,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 115111020,
-      "tokens": null,
       "normal_card_id": 115111020,
       "format_type": 1,
       "restricted_count": 3
@@ -607,7 +591,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 115141030,
-      "tokens": null,
       "normal_card_id": 115141030,
       "format_type": 1,
       "restricted_count": 3
@@ -643,7 +626,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 116111030,
-      "tokens": null,
       "normal_card_id": 116111030,
       "format_type": 1,
       "restricted_count": 3
@@ -679,7 +661,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 900111010,
-      "tokens": null,
       "normal_card_id": 900111010,
       "format_type": 0,
       "restricted_count": 3
@@ -715,7 +696,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101114010,
-      "tokens": null,
       "normal_card_id": 101114010,
       "format_type": 1,
       "restricted_count": 3
@@ -751,7 +731,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 101114010,
-      "tokens": null,
       "normal_card_id": 112114010,
       "format_type": 1,
       "restricted_count": 3
@@ -787,7 +766,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 101114010,
-      "tokens": null,
       "normal_card_id": 709114010,
       "format_type": 1,
       "restricted_count": 3
@@ -823,7 +801,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101114050,
-      "tokens": null,
       "normal_card_id": 101114050,
       "format_type": 0,
       "restricted_count": 3
@@ -859,7 +836,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 101114050,
-      "tokens": null,
       "normal_card_id": 110114010,
       "format_type": 0,
       "restricted_count": 3
@@ -895,7 +871,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 103114020,
-      "tokens": null,
       "normal_card_id": 103114020,
       "format_type": 0,
       "restricted_count": 3
@@ -931,7 +906,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 106114010,
-      "tokens": null,
       "normal_card_id": 106114010,
       "format_type": 1,
       "restricted_count": 3
@@ -967,7 +941,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 106114010,
-      "tokens": null,
       "normal_card_id": 114114010,
       "format_type": 1,
       "restricted_count": 3
@@ -1003,7 +976,6 @@
       "cv": "",
       "copyright": "©TYPE-MOON・ufotable・FSNPC",
       "base_card_id": 106114010,
-      "tokens": null,
       "normal_card_id": 702114010,
       "format_type": 1,
       "restricted_count": 3
@@ -1039,7 +1011,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 107134010,
-      "tokens": null,
       "normal_card_id": 107134010,
       "format_type": 0,
       "restricted_count": 3
@@ -1075,7 +1046,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 114124010,
-      "tokens": null,
       "normal_card_id": 114124010,
       "format_type": 1,
       "restricted_count": 3
@@ -1111,7 +1081,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 114134010,
-      "tokens": null,
       "normal_card_id": 114134010,
       "format_type": 1,
       "restricted_count": 3
@@ -1147,7 +1116,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 115114010,
-      "tokens": null,
       "normal_card_id": 115114010,
       "format_type": 1,
       "restricted_count": 3
@@ -1183,7 +1151,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 115124010,
-      "tokens": null,
       "normal_card_id": 115124010,
       "format_type": 1,
       "restricted_count": 3
@@ -1219,7 +1186,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 115124010,
-      "tokens": null,
       "normal_card_id": 713124010,
       "format_type": 1,
       "restricted_count": 3
@@ -1255,7 +1221,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 800144030,
-      "tokens": null,
       "normal_card_id": 800144030,
       "format_type": 0,
       "restricted_count": 3
@@ -1291,7 +1256,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 800144040,
-      "tokens": null,
       "normal_card_id": 800144040,
       "format_type": 0,
       "restricted_count": 3
@@ -1327,7 +1291,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 900124010,
-      "tokens": null,
       "normal_card_id": 900124010,
       "format_type": 0,
       "restricted_count": 3
@@ -1363,7 +1326,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 900124020,
-      "tokens": null,
       "normal_card_id": 900124020,
       "format_type": 0,
       "restricted_count": 3
@@ -1399,7 +1361,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 900144040,
-      "tokens": null,
       "normal_card_id": 900144040,
       "format_type": 0,
       "restricted_count": 3
@@ -1435,7 +1396,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 900144050,
-      "tokens": null,
       "normal_card_id": 900144050,
       "format_type": 0,
       "restricted_count": 3
@@ -1471,7 +1431,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101122020,
-      "tokens": null,
       "normal_card_id": 101122020,
       "format_type": 0,
       "restricted_count": 3
@@ -1507,7 +1466,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 106133010,
-      "tokens": null,
       "normal_card_id": 106133010,
       "format_type": 0,
       "restricted_count": 3
@@ -1543,7 +1501,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 107113010,
-      "tokens": null,
       "normal_card_id": 107113010,
       "format_type": 0,
       "restricted_count": 3
@@ -1579,7 +1536,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 109113010,
-      "tokens": null,
       "normal_card_id": 109113010,
       "format_type": 0,
       "restricted_count": 3
@@ -1615,7 +1571,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 800113010,
-      "tokens": null,
       "normal_card_id": 800113010,
       "format_type": 0,
       "restricted_count": 3
@@ -1651,7 +1606,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 900113010,
-      "tokens": null,
       "normal_card_id": 900113010,
       "format_type": 0,
       "restricted_count": 3
@@ -1687,7 +1641,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 900113020,
-      "tokens": null,
       "normal_card_id": 900113020,
       "format_type": 0,
       "restricted_count": 3
@@ -1723,7 +1676,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 100111020,
-      "tokens": null,
       "normal_card_id": 100111020,
       "format_type": 1,
       "restricted_count": 3
@@ -1759,7 +1711,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 100111040,
-      "tokens": null,
       "normal_card_id": 100111040,
       "format_type": 1,
       "restricted_count": 3
@@ -1795,7 +1746,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 100121020,
-      "tokens": null,
       "normal_card_id": 100121020,
       "format_type": 1,
       "restricted_count": 3
@@ -1831,7 +1781,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101111030,
-      "tokens": null,
       "normal_card_id": 101111030,
       "format_type": 0,
       "restricted_count": 3
@@ -1867,7 +1816,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101111040,
-      "tokens": null,
       "normal_card_id": 101111040,
       "format_type": 0,
       "restricted_count": 3
@@ -1903,7 +1851,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101111070,
-      "tokens": null,
       "normal_card_id": 101111070,
       "format_type": 0,
       "restricted_count": 3
@@ -1939,7 +1886,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101111090,
-      "tokens": null,
       "normal_card_id": 101111090,
       "format_type": 0,
       "restricted_count": 3
@@ -1975,7 +1921,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101121020,
-      "tokens": null,
       "normal_card_id": 101121020,
       "format_type": 0,
       "restricted_count": 3
@@ -2011,7 +1956,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101131020,
-      "tokens": null,
       "normal_card_id": 101131020,
       "format_type": 0,
       "restricted_count": 3
@@ -2047,7 +1991,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 102111010,
-      "tokens": null,
       "normal_card_id": 102111010,
       "format_type": 0,
       "restricted_count": 3
@@ -2083,7 +2026,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 102111020,
-      "tokens": null,
       "normal_card_id": 102111020,
       "format_type": 0,
       "restricted_count": 3
@@ -2119,7 +2061,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 102131030,
-      "tokens": null,
       "normal_card_id": 102131030,
       "format_type": 0,
       "restricted_count": 3
@@ -2155,7 +2096,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 103121030,
-      "tokens": null,
       "normal_card_id": 103121030,
       "format_type": 0,
       "restricted_count": 3
@@ -2191,7 +2131,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 104111020,
-      "tokens": null,
       "normal_card_id": 104111020,
       "format_type": 0,
       "restricted_count": 3
@@ -2227,7 +2166,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 104121020,
-      "tokens": null,
       "normal_card_id": 104121020,
       "format_type": 0,
       "restricted_count": 3
@@ -2263,7 +2201,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 105111020,
-      "tokens": null,
       "normal_card_id": 105111020,
       "format_type": 0,
       "restricted_count": 3
@@ -2299,7 +2236,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 105121010,
-      "tokens": null,
       "normal_card_id": 105121010,
       "format_type": 0,
       "restricted_count": 3
@@ -2335,7 +2271,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 105141020,
-      "tokens": null,
       "normal_card_id": 105141020,
       "format_type": 0,
       "restricted_count": 3
@@ -2371,7 +2306,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 106111010,
-      "tokens": null,
       "normal_card_id": 106111010,
       "format_type": 0,
       "restricted_count": 3
@@ -2407,7 +2341,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 106121010,
-      "tokens": null,
       "normal_card_id": 106121010,
       "format_type": 0,
       "restricted_count": 3
@@ -2443,7 +2376,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 107111030,
-      "tokens": null,
       "normal_card_id": 107111030,
       "format_type": 0,
       "restricted_count": 3
@@ -2479,7 +2411,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 107121020,
-      "tokens": null,
       "normal_card_id": 107121020,
       "format_type": 0,
       "restricted_count": 3
@@ -2515,7 +2446,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 107131010,
-      "tokens": null,
       "normal_card_id": 107131010,
       "format_type": 0,
       "restricted_count": 3
@@ -2551,7 +2481,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 107141020,
-      "tokens": null,
       "normal_card_id": 107141020,
       "format_type": 0,
       "restricted_count": 3
@@ -2587,7 +2516,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 108111020,
-      "tokens": null,
       "normal_card_id": 108111020,
       "format_type": 0,
       "restricted_count": 3
@@ -2623,7 +2551,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 108131010,
-      "tokens": null,
       "normal_card_id": 108131010,
       "format_type": 0,
       "restricted_count": 3
@@ -2659,7 +2586,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 108131030,
-      "tokens": null,
       "normal_card_id": 108131030,
       "format_type": 0,
       "restricted_count": 3
@@ -2695,7 +2621,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 109111010,
-      "tokens": null,
       "normal_card_id": 109111010,
       "format_type": 0,
       "restricted_count": 3
@@ -2731,7 +2656,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 109111020,
-      "tokens": null,
       "normal_card_id": 109111020,
       "format_type": 0,
       "restricted_count": 3
@@ -2767,7 +2691,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 110111020,
-      "tokens": null,
       "normal_card_id": 110111020,
       "format_type": 0,
       "restricted_count": 3
@@ -2803,7 +2726,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 110131030,
-      "tokens": null,
       "normal_card_id": 110131030,
       "format_type": 0,
       "restricted_count": 3
@@ -2839,7 +2761,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 111111010,
-      "tokens": null,
       "normal_card_id": 111111010,
       "format_type": 0,
       "restricted_count": 3
@@ -2875,7 +2796,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 111121020,
-      "tokens": null,
       "normal_card_id": 111121020,
       "format_type": 0,
       "restricted_count": 3
@@ -2911,7 +2831,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 112111010,
-      "tokens": null,
       "normal_card_id": 112111010,
       "format_type": 1,
       "restricted_count": 3
@@ -2947,7 +2866,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 112141020,
-      "tokens": null,
       "normal_card_id": 112141020,
       "format_type": 1,
       "restricted_count": 3
@@ -2983,7 +2901,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 113121010,
-      "tokens": null,
       "normal_card_id": 113121010,
       "format_type": 1,
       "restricted_count": 3
@@ -3019,7 +2936,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 113131020,
-      "tokens": null,
       "normal_card_id": 113131020,
       "format_type": 1,
       "restricted_count": 3
@@ -3055,7 +2971,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 114111030,
-      "tokens": null,
       "normal_card_id": 114111030,
       "format_type": 1,
       "restricted_count": 3
@@ -3091,7 +3006,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 114121020,
-      "tokens": null,
       "normal_card_id": 114121020,
       "format_type": 1,
       "restricted_count": 3
@@ -3127,7 +3041,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 114131020,
-      "tokens": null,
       "normal_card_id": 114131020,
       "format_type": 1,
       "restricted_count": 3
@@ -3163,7 +3076,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 115111010,
-      "tokens": null,
       "normal_card_id": 115111010,
       "format_type": 1,
       "restricted_count": 3
@@ -3199,7 +3111,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 115121010,
-      "tokens": null,
       "normal_card_id": 115121010,
       "format_type": 1,
       "restricted_count": 3
@@ -3235,7 +3146,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 115131020,
-      "tokens": null,
       "normal_card_id": 115131020,
       "format_type": 1,
       "restricted_count": 3
@@ -3271,7 +3181,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 115131030,
-      "tokens": null,
       "normal_card_id": 115131030,
       "format_type": 1,
       "restricted_count": 3
@@ -3307,7 +3216,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 115141020,
-      "tokens": null,
       "normal_card_id": 115141020,
       "format_type": 1,
       "restricted_count": 3
@@ -3343,7 +3251,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 116111020,
-      "tokens": null,
       "normal_card_id": 116111020,
       "format_type": 1,
       "restricted_count": 3
@@ -3379,7 +3286,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 116121010,
-      "tokens": null,
       "normal_card_id": 116121010,
       "format_type": 1,
       "restricted_count": 3
@@ -3415,7 +3321,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 900121010,
-      "tokens": null,
       "normal_card_id": 900121010,
       "format_type": 0,
       "restricted_count": 3
@@ -3451,7 +3356,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 900131020,
-      "tokens": null,
       "normal_card_id": 900131020,
       "format_type": 0,
       "restricted_count": 3
@@ -3487,7 +3391,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 900131030,
-      "tokens": null,
       "normal_card_id": 900131030,
       "format_type": 0,
       "restricted_count": 3
@@ -3523,7 +3426,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 100114010,
-      "tokens": null,
       "normal_card_id": 100114010,
       "format_type": 1,
       "restricted_count": 3
@@ -3559,7 +3461,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 100114010,
-      "tokens": null,
       "normal_card_id": 705114010,
       "format_type": 1,
       "restricted_count": 3
@@ -3595,7 +3496,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101114020,
-      "tokens": null,
       "normal_card_id": 101114020,
       "format_type": 0,
       "restricted_count": 3
@@ -3631,7 +3531,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101114040,
-      "tokens": null,
       "normal_card_id": 101114040,
       "format_type": 0,
       "restricted_count": 3
@@ -3667,7 +3566,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 102114050,
-      "tokens": null,
       "normal_card_id": 102114050,
       "format_type": 0,
       "restricted_count": 3
@@ -3703,7 +3601,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 105134010,
-      "tokens": null,
       "normal_card_id": 105134010,
       "format_type": 0,
       "restricted_count": 3
@@ -3739,7 +3636,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 106124010,
-      "tokens": null,
       "normal_card_id": 106124010,
       "format_type": 0,
       "restricted_count": 3
@@ -3775,7 +3671,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 111124010,
-      "tokens": null,
       "normal_card_id": 111124010,
       "format_type": 0,
       "restricted_count": 3
@@ -3811,7 +3706,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 111124010,
-      "tokens": null,
       "normal_card_id": 708124010,
       "format_type": 0,
       "restricted_count": 3
@@ -3847,7 +3741,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 112134010,
-      "tokens": null,
       "normal_card_id": 112134010,
       "format_type": 1,
       "restricted_count": 3
@@ -3883,7 +3776,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 116114010,
-      "tokens": null,
       "normal_card_id": 116114010,
       "format_type": 1,
       "restricted_count": 3
@@ -3919,7 +3811,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 116134010,
-      "tokens": null,
       "normal_card_id": 116134010,
       "format_type": 1,
       "restricted_count": 3
@@ -3955,7 +3846,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 800144010,
-      "tokens": null,
       "normal_card_id": 800144010,
       "format_type": 0,
       "restricted_count": 3
@@ -3991,7 +3881,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 800144020,
-      "tokens": null,
       "normal_card_id": 800144020,
       "format_type": 0,
       "restricted_count": 3
@@ -4027,7 +3916,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 900134010,
-      "tokens": null,
       "normal_card_id": 900134010,
       "format_type": 0,
       "restricted_count": 3
@@ -4063,7 +3951,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 900134020,
-      "tokens": null,
       "normal_card_id": 900134020,
       "format_type": 0,
       "restricted_count": 3
@@ -4099,7 +3986,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 900134030,
-      "tokens": null,
       "normal_card_id": 900134030,
       "format_type": 0,
       "restricted_count": 3
@@ -4135,7 +4021,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 900144010,
-      "tokens": null,
       "normal_card_id": 900144010,
       "format_type": 0,
       "restricted_count": 3
@@ -4171,7 +4056,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101113010,
-      "tokens": null,
       "normal_card_id": 101113010,
       "format_type": 0,
       "restricted_count": 3
@@ -4207,7 +4091,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 105123010,
-      "tokens": null,
       "normal_card_id": 105123010,
       "format_type": 0,
       "restricted_count": 3
@@ -4243,7 +4126,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 108113010,
-      "tokens": null,
       "normal_card_id": 108113010,
       "format_type": 0,
       "restricted_count": 3
@@ -4279,7 +4161,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 110113010,
-      "tokens": null,
       "normal_card_id": 110113010,
       "format_type": 0,
       "restricted_count": 3
@@ -4315,7 +4196,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 810122010,
-      "tokens": null,
       "normal_card_id": 810122010,
       "format_type": 0,
       "restricted_count": 3
@@ -4351,7 +4231,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 100111060,
-      "tokens": null,
       "normal_card_id": 100111060,
       "format_type": 1,
       "restricted_count": 3
@@ -4387,7 +4266,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101111050,
-      "tokens": null,
       "normal_card_id": 101111050,
       "format_type": 0,
       "restricted_count": 3
@@ -4423,7 +4301,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101111060,
-      "tokens": null,
       "normal_card_id": 101111060,
       "format_type": 0,
       "restricted_count": 3
@@ -4459,7 +4336,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101121010,
-      "tokens": null,
       "normal_card_id": 101121010,
       "format_type": 0,
       "restricted_count": 3
@@ -4495,7 +4371,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101121030,
-      "tokens": null,
       "normal_card_id": 101121030,
       "format_type": 0,
       "restricted_count": 3
@@ -4531,7 +4406,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101121040,
-      "tokens": null,
       "normal_card_id": 101121040,
       "format_type": 0,
       "restricted_count": 3
@@ -4567,7 +4441,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101141020,
-      "tokens": null,
       "normal_card_id": 101141020,
       "format_type": 0,
       "restricted_count": 3
@@ -4603,7 +4476,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101141020,
-      "tokens": null,
       "normal_card_id": 701141010,
       "format_type": 0,
       "restricted_count": 3
@@ -4639,7 +4511,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 102111030,
-      "tokens": null,
       "normal_card_id": 102111030,
       "format_type": 0,
       "restricted_count": 3
@@ -4675,7 +4546,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 103111040,
-      "tokens": null,
       "normal_card_id": 103111040,
       "format_type": 0,
       "restricted_count": 3
@@ -4711,7 +4581,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 104111030,
-      "tokens": null,
       "normal_card_id": 104111030,
       "format_type": 0,
       "restricted_count": 3
@@ -4747,7 +4616,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 104111040,
-      "tokens": null,
       "normal_card_id": 104111040,
       "format_type": 0,
       "restricted_count": 3
@@ -4783,7 +4651,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 105111030,
-      "tokens": null,
       "normal_card_id": 105111030,
       "format_type": 0,
       "restricted_count": 3
@@ -4819,7 +4686,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 105131010,
-      "tokens": null,
       "normal_card_id": 105131010,
       "format_type": 0,
       "restricted_count": 3
@@ -4855,7 +4721,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 106111020,
-      "tokens": null,
       "normal_card_id": 106111020,
       "format_type": 0,
       "restricted_count": 3
@@ -4891,7 +4756,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 106131020,
-      "tokens": null,
       "normal_card_id": 106131020,
       "format_type": 0,
       "restricted_count": 3
@@ -4927,7 +4791,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 107111010,
-      "tokens": null,
       "normal_card_id": 107111010,
       "format_type": 0,
       "restricted_count": 3
@@ -4963,7 +4826,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 107121010,
-      "tokens": null,
       "normal_card_id": 107121010,
       "format_type": 0,
       "restricted_count": 3
@@ -4999,7 +4861,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 108111030,
-      "tokens": null,
       "normal_card_id": 108111030,
       "format_type": 0,
       "restricted_count": 3
@@ -5035,7 +4896,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 108121020,
-      "tokens": null,
       "normal_card_id": 108121020,
       "format_type": 0,
       "restricted_count": 3
@@ -5071,7 +4931,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 109111030,
-      "tokens": null,
       "normal_card_id": 109111030,
       "format_type": 0,
       "restricted_count": 3
@@ -5107,7 +4966,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 109131010,
-      "tokens": null,
       "normal_card_id": 109131010,
       "format_type": 0,
       "restricted_count": 3
@@ -5143,7 +5001,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 110141030,
-      "tokens": null,
       "normal_card_id": 110141030,
       "format_type": 0,
       "restricted_count": 3
@@ -5179,7 +5036,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 110141030,
-      "tokens": null,
       "normal_card_id": 711141010,
       "format_type": 0,
       "restricted_count": 3
@@ -5215,7 +5071,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 111111020,
-      "tokens": null,
       "normal_card_id": 111111020,
       "format_type": 0,
       "restricted_count": 3
@@ -5251,7 +5106,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 112111020,
-      "tokens": null,
       "normal_card_id": 112111020,
       "format_type": 1,
       "restricted_count": 3
@@ -5287,7 +5141,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 112131020,
-      "tokens": null,
       "normal_card_id": 112131020,
       "format_type": 1,
       "restricted_count": 3
@@ -5323,7 +5176,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 113111030,
-      "tokens": null,
       "normal_card_id": 113111030,
       "format_type": 1,
       "restricted_count": 3
@@ -5359,7 +5211,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 113121020,
-      "tokens": null,
       "normal_card_id": 113121020,
       "format_type": 1,
       "restricted_count": 3
@@ -5395,7 +5246,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 113141020,
-      "tokens": null,
       "normal_card_id": 113141020,
       "format_type": 1,
       "restricted_count": 3
@@ -5431,7 +5281,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 114131010,
-      "tokens": null,
       "normal_card_id": 114131010,
       "format_type": 1,
       "restricted_count": 3
@@ -5467,7 +5316,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 114141010,
-      "tokens": null,
       "normal_card_id": 114141010,
       "format_type": 1,
       "restricted_count": 3
@@ -5503,7 +5351,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 115111030,
-      "tokens": null,
       "normal_card_id": 115111030,
       "format_type": 1,
       "restricted_count": 3
@@ -5539,7 +5386,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 115121020,
-      "tokens": null,
       "normal_card_id": 115121020,
       "format_type": 1,
       "restricted_count": 3
@@ -5575,7 +5421,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 900131010,
-      "tokens": null,
       "normal_card_id": 900131010,
       "format_type": 0,
       "restricted_count": 3
@@ -5611,7 +5456,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 900141020,
-      "tokens": null,
       "normal_card_id": 900141020,
       "format_type": 0,
       "restricted_count": 3
@@ -5647,7 +5491,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 900141030,
-      "tokens": null,
       "normal_card_id": 900141030,
       "format_type": 0,
       "restricted_count": 3
@@ -5683,7 +5526,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101114060,
-      "tokens": null,
       "normal_card_id": 101114060,
       "format_type": 0,
       "restricted_count": 3
@@ -5719,7 +5561,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 102124020,
-      "tokens": null,
       "normal_card_id": 102124020,
       "format_type": 0,
       "restricted_count": 3
@@ -5755,7 +5596,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 103124010,
-      "tokens": null,
       "normal_card_id": 103124010,
       "format_type": 0,
       "restricted_count": 3
@@ -5791,7 +5631,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 103134010,
-      "tokens": null,
       "normal_card_id": 103134010,
       "format_type": 0,
       "restricted_count": 3
@@ -5827,7 +5666,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 104114010,
-      "tokens": null,
       "normal_card_id": 104114010,
       "format_type": 0,
       "restricted_count": 3
@@ -5863,7 +5701,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 107124010,
-      "tokens": null,
       "normal_card_id": 107124010,
       "format_type": 0,
       "restricted_count": 3
@@ -5899,7 +5736,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 113114010,
-      "tokens": null,
       "normal_card_id": 113114010,
       "format_type": 1,
       "restricted_count": 3
@@ -5935,7 +5771,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 113114010,
-      "tokens": null,
       "normal_card_id": 709114020,
       "format_type": 1,
       "restricted_count": 3
@@ -5971,7 +5806,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 113144010,
-      "tokens": null,
       "normal_card_id": 113144010,
       "format_type": 1,
       "restricted_count": 3
@@ -6007,7 +5841,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 900124030,
-      "tokens": null,
       "normal_card_id": 900124030,
       "format_type": 0,
       "restricted_count": 3
@@ -6043,7 +5876,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101112010,
-      "tokens": null,
       "normal_card_id": 101112010,
       "format_type": 0,
       "restricted_count": 3
@@ -6079,7 +5911,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 104123010,
-      "tokens": null,
       "normal_card_id": 104123010,
       "format_type": 0,
       "restricted_count": 3
@@ -6115,7 +5946,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 105112010,
-      "tokens": null,
       "normal_card_id": 105112010,
       "format_type": 0,
       "restricted_count": 3
@@ -6151,7 +5981,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 111113010,
-      "tokens": null,
       "normal_card_id": 111113010,
       "format_type": 0,
       "restricted_count": 3
@@ -6187,7 +6016,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 112122010,
-      "tokens": null,
       "normal_card_id": 112122010,
       "format_type": 1,
       "restricted_count": 3
@@ -6223,7 +6051,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 112122010,
-      "tokens": null,
       "normal_card_id": 709122010,
       "format_type": 1,
       "restricted_count": 3
@@ -6259,7 +6086,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 100111030,
-      "tokens": null,
       "normal_card_id": 100111030,
       "format_type": 1,
       "restricted_count": 3
@@ -6295,7 +6121,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 100121030,
-      "tokens": null,
       "normal_card_id": 100121030,
       "format_type": 1,
       "restricted_count": 3
@@ -6331,7 +6156,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101121080,
-      "tokens": null,
       "normal_card_id": 101121080,
       "format_type": 0,
       "restricted_count": 3
@@ -6367,7 +6191,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101121090,
-      "tokens": null,
       "normal_card_id": 101121090,
       "format_type": 0,
       "restricted_count": 3
@@ -6403,7 +6226,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101131010,
-      "tokens": null,
       "normal_card_id": 101131010,
       "format_type": 0,
       "restricted_count": 3
@@ -6439,7 +6261,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 102111040,
-      "tokens": null,
       "normal_card_id": 102111040,
       "format_type": 0,
       "restricted_count": 3
@@ -6475,7 +6296,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 102121010,
-      "tokens": null,
       "normal_card_id": 102121010,
       "format_type": 0,
       "restricted_count": 3
@@ -6511,7 +6331,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 103111030,
-      "tokens": null,
       "normal_card_id": 103111030,
       "format_type": 0,
       "restricted_count": 3
@@ -6547,7 +6366,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 104121030,
-      "tokens": null,
       "normal_card_id": 104121030,
       "format_type": 0,
       "restricted_count": 3
@@ -6583,7 +6401,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 105111010,
-      "tokens": null,
       "normal_card_id": 105111010,
       "format_type": 0,
       "restricted_count": 3
@@ -6619,7 +6436,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 105121020,
-      "tokens": null,
       "normal_card_id": 105121020,
       "format_type": 0,
       "restricted_count": 3
@@ -6655,7 +6471,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 105131020,
-      "tokens": null,
       "normal_card_id": 105131020,
       "format_type": 0,
       "restricted_count": 3
@@ -6691,7 +6506,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 106121020,
-      "tokens": null,
       "normal_card_id": 106121020,
       "format_type": 0,
       "restricted_count": 3
@@ -6727,7 +6541,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 107111020,
-      "tokens": null,
       "normal_card_id": 107111020,
       "format_type": 0,
       "restricted_count": 3
@@ -6763,7 +6576,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 107141010,
-      "tokens": null,
       "normal_card_id": 107141010,
       "format_type": 0,
       "restricted_count": 3
@@ -6799,7 +6611,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 107141010,
-      "tokens": null,
       "normal_card_id": 704141010,
       "format_type": 0,
       "restricted_count": 3
@@ -6835,7 +6646,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 108111010,
-      "tokens": null,
       "normal_card_id": 108111010,
       "format_type": 0,
       "restricted_count": 3
@@ -6871,7 +6681,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 108121010,
-      "tokens": null,
       "normal_card_id": 108121010,
       "format_type": 0,
       "restricted_count": 3
@@ -6907,7 +6716,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 109121010,
-      "tokens": null,
       "normal_card_id": 109121010,
       "format_type": 0,
       "restricted_count": 3
@@ -6943,7 +6751,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 109131020,
-      "tokens": null,
       "normal_card_id": 109131020,
       "format_type": 0,
       "restricted_count": 3
@@ -6979,7 +6786,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 110111010,
-      "tokens": null,
       "normal_card_id": 110111010,
       "format_type": 0,
       "restricted_count": 3
@@ -7015,7 +6821,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 110121020,
-      "tokens": null,
       "normal_card_id": 110121020,
       "format_type": 0,
       "restricted_count": 3
@@ -7051,7 +6856,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 111131020,
-      "tokens": null,
       "normal_card_id": 111131020,
       "format_type": 0,
       "restricted_count": 3
@@ -7087,7 +6891,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 111131030,
-      "tokens": null,
       "normal_card_id": 111131030,
       "format_type": 0,
       "restricted_count": 3
@@ -7123,7 +6926,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 111141010,
-      "tokens": null,
       "normal_card_id": 111141010,
       "format_type": 0,
       "restricted_count": 3
@@ -7159,7 +6961,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 112121010,
-      "tokens": null,
       "normal_card_id": 112121010,
       "format_type": 1,
       "restricted_count": 3
@@ -7195,7 +6996,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 113111010,
-      "tokens": null,
       "normal_card_id": 113111010,
       "format_type": 1,
       "restricted_count": 3
@@ -7231,7 +7031,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 114111010,
-      "tokens": null,
       "normal_card_id": 114111010,
       "format_type": 1,
       "restricted_count": 3
@@ -7267,7 +7066,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 114121010,
-      "tokens": null,
       "normal_card_id": 114121010,
       "format_type": 1,
       "restricted_count": 3
@@ -7303,7 +7101,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 115131010,
-      "tokens": null,
       "normal_card_id": 115131010,
       "format_type": 1,
       "restricted_count": 3
@@ -7339,7 +7136,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 116131020,
-      "tokens": null,
       "normal_card_id": 116131020,
       "format_type": 1,
       "restricted_count": 3
@@ -7375,7 +7171,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 900141010,
-      "tokens": null,
       "normal_card_id": 900141010,
       "format_type": 0,
       "restricted_count": 3
@@ -7411,7 +7206,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101114030,
-      "tokens": null,
       "normal_card_id": 101114030,
       "format_type": 0,
       "restricted_count": 3
@@ -7447,7 +7241,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 108124010,
-      "tokens": null,
       "normal_card_id": 108124010,
       "format_type": 0,
       "restricted_count": 3
@@ -7483,7 +7276,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 109134010,
-      "tokens": null,
       "normal_card_id": 109134010,
       "format_type": 0,
       "restricted_count": 3
@@ -7519,7 +7311,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 113124010,
-      "tokens": null,
       "normal_card_id": 113124010,
       "format_type": 1,
       "restricted_count": 3
@@ -7555,7 +7346,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 900144060,
-      "tokens": null,
       "normal_card_id": 900144060,
       "format_type": 0,
       "restricted_count": 3
@@ -7591,7 +7381,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101122010,
-      "tokens": null,
       "normal_card_id": 101122010,
       "format_type": 0,
       "restricted_count": 3
@@ -7627,7 +7416,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 104132010,
-      "tokens": null,
       "normal_card_id": 104132010,
       "format_type": 0,
       "restricted_count": 3
@@ -7663,7 +7451,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 116123010,
-      "tokens": null,
       "normal_card_id": 116123010,
       "format_type": 1,
       "restricted_count": 3
@@ -7699,7 +7486,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 100111050,
-      "tokens": null,
       "normal_card_id": 100111050,
       "format_type": 1,
       "restricted_count": 3
@@ -7735,7 +7521,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101111080,
-      "tokens": null,
       "normal_card_id": 101111080,
       "format_type": 0,
       "restricted_count": 3
@@ -7771,7 +7556,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101121050,
-      "tokens": null,
       "normal_card_id": 101121050,
       "format_type": 0,
       "restricted_count": 3
@@ -7807,7 +7591,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101131030,
-      "tokens": null,
       "normal_card_id": 101131030,
       "format_type": 0,
       "restricted_count": 3
@@ -7843,7 +7626,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101131050,
-      "tokens": null,
       "normal_card_id": 101131050,
       "format_type": 0,
       "restricted_count": 3
@@ -7879,7 +7661,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 102111060,
-      "tokens": null,
       "normal_card_id": 102111060,
       "format_type": 0,
       "restricted_count": 3
@@ -7915,7 +7696,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 102141010,
-      "tokens": null,
       "normal_card_id": 102141010,
       "format_type": 0,
       "restricted_count": 3
@@ -7951,7 +7731,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 103121020,
-      "tokens": null,
       "normal_card_id": 103121020,
       "format_type": 0,
       "restricted_count": 3
@@ -7987,7 +7766,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 103121040,
-      "tokens": null,
       "normal_card_id": 103121040,
       "format_type": 0,
       "restricted_count": 3
@@ -8023,7 +7801,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 103131020,
-      "tokens": null,
       "normal_card_id": 103131020,
       "format_type": 0,
       "restricted_count": 3
@@ -8059,7 +7836,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 104131030,
-      "tokens": null,
       "normal_card_id": 104131030,
       "format_type": 0,
       "restricted_count": 3
@@ -8095,7 +7871,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 106131010,
-      "tokens": null,
       "normal_card_id": 106131010,
       "format_type": 0,
       "restricted_count": 3
@@ -8131,7 +7906,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 108131020,
-      "tokens": null,
       "normal_card_id": 108131020,
       "format_type": 0,
       "restricted_count": 3
@@ -8167,7 +7941,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 109121020,
-      "tokens": null,
       "normal_card_id": 109121020,
       "format_type": 0,
       "restricted_count": 3
@@ -8203,7 +7976,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 109141010,
-      "tokens": null,
       "normal_card_id": 109141010,
       "format_type": 0,
       "restricted_count": 3
@@ -8239,7 +8011,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 109141020,
-      "tokens": null,
       "normal_card_id": 109141020,
       "format_type": 0,
       "restricted_count": 3
@@ -8275,7 +8046,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 110121010,
-      "tokens": null,
       "normal_card_id": 110121010,
       "format_type": 0,
       "restricted_count": 3
@@ -8311,7 +8081,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 110131020,
-      "tokens": null,
       "normal_card_id": 110131020,
       "format_type": 0,
       "restricted_count": 3
@@ -8347,7 +8116,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 111121010,
-      "tokens": null,
       "normal_card_id": 111121010,
       "format_type": 0,
       "restricted_count": 3
@@ -8383,7 +8151,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 111131010,
-      "tokens": null,
       "normal_card_id": 111131010,
       "format_type": 0,
       "restricted_count": 3
@@ -8419,7 +8186,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 112121020,
-      "tokens": null,
       "normal_card_id": 112121020,
       "format_type": 1,
       "restricted_count": 3
@@ -8455,7 +8221,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 113111020,
-      "tokens": null,
       "normal_card_id": 113111020,
       "format_type": 1,
       "restricted_count": 3
@@ -8491,7 +8256,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 114141020,
-      "tokens": null,
       "normal_card_id": 114141020,
       "format_type": 1,
       "restricted_count": 3
@@ -8527,7 +8291,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 116111010,
-      "tokens": null,
       "normal_card_id": 116111010,
       "format_type": 1,
       "restricted_count": 3
@@ -8563,7 +8326,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101134010,
-      "tokens": null,
       "normal_card_id": 101134010,
       "format_type": 0,
       "restricted_count": 3
@@ -8599,7 +8361,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 810134010,
-      "tokens": null,
       "normal_card_id": 810134010,
       "format_type": 0,
       "restricted_count": 3
@@ -8635,7 +8396,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101132010,
-      "tokens": null,
       "normal_card_id": 101132010,
       "format_type": 0,
       "restricted_count": 3
@@ -8671,7 +8431,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 100111070,
-      "tokens": null,
       "normal_card_id": 100111070,
       "format_type": 1,
       "restricted_count": 3
@@ -8707,7 +8466,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 100121010,
-      "tokens": null,
       "normal_card_id": 100121010,
       "format_type": 1,
       "restricted_count": 3
@@ -8743,7 +8501,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101121060,
-      "tokens": null,
       "normal_card_id": 101121060,
       "format_type": 0,
       "restricted_count": 3
@@ -8779,7 +8536,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101121070,
-      "tokens": null,
       "normal_card_id": 101121070,
       "format_type": 0,
       "restricted_count": 3
@@ -8815,7 +8571,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101141010,
-      "tokens": null,
       "normal_card_id": 101141010,
       "format_type": 0,
       "restricted_count": 3
@@ -8851,7 +8606,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 102121030,
-      "tokens": null,
       "normal_card_id": 102121030,
       "format_type": 0,
       "restricted_count": 3
@@ -8887,7 +8641,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 102131010,
-      "tokens": null,
       "normal_card_id": 102131010,
       "format_type": 0,
       "restricted_count": 3
@@ -8923,7 +8676,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 102131020,
-      "tokens": null,
       "normal_card_id": 102131020,
       "format_type": 0,
       "restricted_count": 3
@@ -8959,7 +8711,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 103131030,
-      "tokens": null,
       "normal_card_id": 103131030,
       "format_type": 0,
       "restricted_count": 3
@@ -8995,7 +8746,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 104131020,
-      "tokens": null,
       "normal_card_id": 104131020,
       "format_type": 0,
       "restricted_count": 3
@@ -9031,7 +8781,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 105121030,
-      "tokens": null,
       "normal_card_id": 105121030,
       "format_type": 0,
       "restricted_count": 3
@@ -9067,7 +8816,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 105141010,
-      "tokens": null,
       "normal_card_id": 105141010,
       "format_type": 0,
       "restricted_count": 3
@@ -9103,7 +8851,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 106111030,
-      "tokens": null,
       "normal_card_id": 106111030,
       "format_type": 0,
       "restricted_count": 3
@@ -9139,7 +8886,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 106121030,
-      "tokens": null,
       "normal_card_id": 106121030,
       "format_type": 0,
       "restricted_count": 3
@@ -9175,7 +8921,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 106141010,
-      "tokens": null,
       "normal_card_id": 106141010,
       "format_type": 0,
       "restricted_count": 3
@@ -9211,7 +8956,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 106141010,
-      "tokens": null,
       "normal_card_id": 706141010,
       "format_type": 0,
       "restricted_count": 3
@@ -9247,7 +8991,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 107131020,
-      "tokens": null,
       "normal_card_id": 107131020,
       "format_type": 0,
       "restricted_count": 3
@@ -9283,7 +9026,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 108141010,
-      "tokens": null,
       "normal_card_id": 108141010,
       "format_type": 0,
       "restricted_count": 3
@@ -9319,7 +9061,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 108141020,
-      "tokens": null,
       "normal_card_id": 108141020,
       "format_type": 0,
       "restricted_count": 3
@@ -9355,7 +9096,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 108141030,
-      "tokens": null,
       "normal_card_id": 108141030,
       "format_type": 0,
       "restricted_count": 3
@@ -9391,7 +9131,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 111141020,
-      "tokens": null,
       "normal_card_id": 111141020,
       "format_type": 0,
       "restricted_count": 3
@@ -9427,7 +9166,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 112141010,
-      "tokens": null,
       "normal_card_id": 112141010,
       "format_type": 1,
       "restricted_count": 3
@@ -9463,7 +9201,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 114111020,
-      "tokens": null,
       "normal_card_id": 114111020,
       "format_type": 1,
       "restricted_count": 3
@@ -9499,7 +9236,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 116121020,
-      "tokens": null,
       "normal_card_id": 116121020,
       "format_type": 1,
       "restricted_count": 3
@@ -9535,7 +9271,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 116141020,
-      "tokens": null,
       "normal_card_id": 116141020,
       "format_type": 1,
       "restricted_count": 3
@@ -9571,7 +9306,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101121110,
-      "tokens": null,
       "normal_card_id": 101121110,
       "format_type": 0,
       "restricted_count": 3
@@ -9607,7 +9341,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 102121040,
-      "tokens": null,
       "normal_card_id": 102121040,
       "format_type": 0,
       "restricted_count": 3
@@ -9643,7 +9376,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 103111060,
-      "tokens": null,
       "normal_card_id": 103111060,
       "format_type": 0,
       "restricted_count": 3
@@ -9679,7 +9411,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 104121040,
-      "tokens": null,
       "normal_card_id": 104121040,
       "format_type": 0,
       "restricted_count": 3
@@ -9715,7 +9446,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 104141010,
-      "tokens": null,
       "normal_card_id": 104141010,
       "format_type": 0,
       "restricted_count": 3
@@ -9751,7 +9481,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 110131010,
-      "tokens": null,
       "normal_card_id": 110131010,
       "format_type": 0,
       "restricted_count": 3
@@ -9787,7 +9516,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 112131010,
-      "tokens": null,
       "normal_card_id": 112131010,
       "format_type": 1,
       "restricted_count": 3
@@ -9823,7 +9551,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 113141010,
-      "tokens": null,
       "normal_card_id": 113141010,
       "format_type": 1,
       "restricted_count": 3
@@ -9859,7 +9586,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 115141010,
-      "tokens": null,
       "normal_card_id": 900141040,
       "format_type": 1,
       "restricted_count": 3
@@ -9895,7 +9621,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101134030,
-      "tokens": null,
       "normal_card_id": 101134030,
       "format_type": 0,
       "restricted_count": 3
@@ -9931,7 +9656,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101121100,
-      "tokens": null,
       "normal_card_id": 101121100,
       "format_type": 0,
       "restricted_count": 3
@@ -9967,7 +9691,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101131040,
-      "tokens": null,
       "normal_card_id": 101131040,
       "format_type": 0,
       "restricted_count": 3
@@ -10003,7 +9726,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101141030,
-      "tokens": null,
       "normal_card_id": 101141030,
       "format_type": 0,
       "restricted_count": 3
@@ -10039,7 +9761,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 103141010,
-      "tokens": null,
       "normal_card_id": 103141010,
       "format_type": 0,
       "restricted_count": 3
@@ -10075,7 +9796,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 104141020,
-      "tokens": null,
       "normal_card_id": 104141020,
       "format_type": 0,
       "restricted_count": 3
@@ -10111,7 +9831,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 104141020,
-      "tokens": null,
       "normal_card_id": 703141010,
       "format_type": 0,
       "restricted_count": 3
@@ -10147,7 +9866,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 109121030,
-      "tokens": null,
       "normal_card_id": 109121030,
       "format_type": 0,
       "restricted_count": 3
@@ -10183,7 +9901,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 111141030,
-      "tokens": null,
       "normal_card_id": 111141030,
       "format_type": 0,
       "restricted_count": 3
@@ -10219,7 +9936,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 112141030,
-      "tokens": null,
       "normal_card_id": 112141030,
       "format_type": 1,
       "restricted_count": 3
@@ -10255,7 +9971,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 115141010,
-      "tokens": null,
       "normal_card_id": 115141010,
       "format_type": 1,
       "restricted_count": 3
@@ -10291,7 +10006,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 109141030,
-      "tokens": null,
       "normal_card_id": 109141030,
       "format_type": 0,
       "restricted_count": 3
@@ -10327,7 +10041,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 114141030,
-      "tokens": null,
       "normal_card_id": 114141030,
       "format_type": 1,
       "restricted_count": 3
@@ -10363,7 +10076,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 101134020,
-      "tokens": null,
       "normal_card_id": 101134020,
       "format_type": 0,
       "restricted_count": 3
@@ -10399,7 +10111,6 @@
       "cv": "",
       "copyright": "",
       "base_card_id": 106141020,
-      "tokens": null,
       "normal_card_id": 106141020,
       "format_type": 0,
       "restricted_count": 3
@@ -10435,7 +10146,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 110141010,
-      "tokens": null,
       "normal_card_id": 110141010,
       "format_type": 0,
       "restricted_count": 3
@@ -10471,7 +10181,6 @@
       "cv": "",
       "copyright": null,
       "base_card_id": 116141010,
-      "tokens": null,
       "normal_card_id": 116141010,
       "format_type": 1,
       "restricted_count": 3
