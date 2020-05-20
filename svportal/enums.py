@@ -29,6 +29,7 @@ CARD_SETS = [(10000, 'Basic'),
              (70013, 'The Melancholy of Haruhi Suzumiya Tie-in'),
              (70014, 'Prebuilt Decks Set 7'),
              (70015, 'The Idolmaster: Cinderella Girls Tie-in'),
+             (70016, 'NieR:Automata Tie-in'),
              (90000, 'Tokens')
             ]
 
