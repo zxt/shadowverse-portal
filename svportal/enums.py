@@ -33,6 +33,8 @@ CARD_SETS = [(10000, 'Basic'),
              (70015, 'The Idolmaster: Cinderella Girls Tie-in'),
              (70016, 'NieR:Automata Tie-in'),
              (70017, 'Code Geass Lelouch of the Rebellion Tie-in'),
+             (70018, 'Shadowverse: Champion\'s Battle Tie-in'),
+             (70019, 'Shadowverse: Chamption\'s Battle Set'),
              (90000, 'Tokens')
             ]
 
