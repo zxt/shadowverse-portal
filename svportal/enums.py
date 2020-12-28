@@ -17,6 +17,7 @@ CARD_SETS = [(10000, 'Basic'),
              (10016, 'World Uprooted'),
              (10017, 'Fortune\'s Hand'),
              (10018, 'Storm Over Rivayle'),
+             (10019, 'Eternal Awakening'),
              (70001, 'Prebuilt Decks Set 1'),
              (70002, 'Prebuilt Decks Set 2'),
              (70003, 'Anigera Didoooon Tie-in'),
@@ -35,6 +36,8 @@ CARD_SETS = [(10000, 'Basic'),
              (70017, 'Code Geass Lelouch of the Rebellion Tie-in'),
              (70018, 'Shadowverse: Champion\'s Battle Tie-in'),
              (70019, 'Shadowverse: Chamption\'s Battle Set'),
+             (70020, 'Granblue Fantasy Tie-in'),
+             (70021, 'Battle Pass'),
              (90000, 'Tokens')
             ]
 
