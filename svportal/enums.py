@@ -40,6 +40,7 @@ CARD_SETS = [(10000, 'Basic'),
              (70020, 'Granblue Fantasy Tie-in'),
              (70021, 'Battle Pass'),
              (70022, 'Kaguya-sama: Love Is War? Tie-in'),
+             (70023, 'The Idolmaster: Cinderella Girls Tie-in'),
              (90000, 'Tokens')
             ]
 

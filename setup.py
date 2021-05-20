@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="svportal",
-    version="20.1",
+    version="20.5",
     license="MIT License",
     author="Zhao Tang",
     author_email="zxt@zhaotang.ca",
