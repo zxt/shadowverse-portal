@@ -1474,7 +1474,7 @@
       "base_card_id": 101611050,
       "normal_card_id": 101611050,
       "format_type": 0,
-      "restricted_count": 1
+      "restricted_count": 3
     },
     {
       "card_id": 101621020,
@@ -9370,11 +9370,11 @@
       "char_type": 1,
       "clan": 6,
       "tribe_name": "-",
-      "skill": "generic_value_modifier,trigger,generic_value_modifier,attach_skill,attach_skill,attach_skill//damage,damage",
-      "skill_condition": "character=me&avarice=true&{me.hand_self.count}>0,character=me&avarice=true&{me.hand_self.count}>0,character=me&avarice=true&{me.hand_self.count}>0,character=me&avarice=true&{me.hand_self.count}>0&{self.fixed_generic_value_initial_0=1206410102}%3=0,character=me&avarice=true&{me.hand_self.count}>0&{self.fixed_generic_value_initial_0=1206410102}%3=1,character=me&avarice=true&{me.hand_self.count}>0&{self.fixed_generic_value_initial_0=1206410102}%3=2//character=me&target=attacker&attacker=self&berserk=false,character=me&target=attacker&attacker=self&berserk=true",
-      "skill_target": "character=me&target=hand_self&card_type=unit,character=me&target=hand_self&card_type=unit,character=me&target=hand_self&card_type=unit,character=me&target=hand_self&card_type=unit,character=me&target=hand_self&card_type=unit,character=me&target=hand_self&card_type=unit//character=op&target=inplay&card_type=unit,character=op&target=inplay&card_type=unit",
-      "skill_option": "set={self.fixed_generic_value_initial_0=1206410101}+1&id=1206410101,none,set={self.fixed_generic_value_initial_0=1206410102}+1&id=1206410102,skill=(skill:drain)(timing:resident)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none),skill=(skill:quick)(timing:resident)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none),skill=(skill:evolve)(timing:when_play)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)(effect_path:btl_120641010_3)(se_path:se_btl_120641010_3)(effect_move_type:DIRECT)(engine_type:SHURIKEN)(effect_time:0.2)(effect_target_type:single)//damage=2,damage=4",
-      "skill_preprocess": "none,none,none,none,none,none//none,none",
+      "skill": "attach_skill,attach_skill,attach_skill//damage,damage",
+      "skill_condition": "character=me&avarice=true&{me.hand_self.count}>0&{me.self.skill_activated_count}%3=1,character=me&avarice=true&{me.hand_self.count}>0&{me.self.skill_activated_count}%3=2,character=me&avarice=true&{me.hand_self.count}>0&{me.self.skill_activated_count}%3=0//character=me&target=attacker&attacker=self&berserk=false,character=me&target=attacker&attacker=self&berserk=true",
+      "skill_target": "character=me&target=hand_self&card_type=unit,character=me&target=hand_self&card_type=unit,character=me&target=hand_self&card_type=unit//character=op&target=inplay&card_type=unit,character=op&target=inplay&card_type=unit",
+      "skill_option": "skill=(skill:drain)(timing:resident)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none),skill=(skill:quick)(timing:resident)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none),skill=(skill:evolve)(timing:when_play)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)(effect_path:btl_120641010_3)(se_path:se_btl_120641010_3)(effect_move_type:DIRECT)(engine_type:SHURIKEN)(effect_time:0.2)(effect_target_type:single)//damage=2,damage=4",
+      "skill_preprocess": "wrapping_and_adding_skill_activated_count,wrapping_and_adding_skill_activated_count,wrapping_and_adding_skill_activated_count//none,none",
       "skill_disc": "At the end of your turn, if this card is in your hand and Avarice is active for you, gain 1 of the following effects in order.<br>1. Drain.<br>2. Storm.<br>3. Fanfare: Evolve this follower.",
       "org_skill_disc": "At the end of your turn, if this card is in your hand and [b]Avarice[/b] is active for you, gain 1 of the following effects in order.<br>1. [b]Drain[/b].<br>2. [b]Storm[/b].<br>3. [b]Fanfare[/b]: Evolve this follower.",
       "evo_skill_disc": "Strike: Deal 2 damage to all enemy followers. If Vengeance is active for you, deal 4 damage instead.",
