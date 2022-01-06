@@ -15311,7 +15311,7 @@
       "clan": 4,
       "tribe_name": "-",
       "skill": "pp_fixeduse,transform,rush,summon_token",
-      "skill_condition": "{me.inplay.class.pp}>=2&{me.inplay.class.pp}<{me.hand_self.cost},{me.inplay.class.pp}>=2&{me.inplay.class.pp}<{me.hand_self.cost},{me.inplay.class.pp}>={me.hand_self.cost},{me.inplay.class.pp}>={me.hand_self.cost}",
+      "skill_condition": "{me.inplay.class.pp}>=2&{me.inplay.class.pp}<{me.hand_self.cost}&character=me&target=hand_other_self&card_type=all,{me.inplay.class.pp}>=2&{me.inplay.class.pp}<{me.hand_self.cost}&character=me&target=hand_other_self&card_type=all,{me.inplay.class.pp}>={me.hand_self.cost},{me.inplay.class.pp}>={me.hand_self.cost}",
       "skill_target": "none,none,character=me,none",
       "skill_option": "fixeduse=2,card_id=800414030,none,summon_token=105421030",
       "skill_preprocess": "none,none,none,none",

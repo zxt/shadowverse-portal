@@ -10488,7 +10488,7 @@
       "tribe_name": "-",
       "skill": "indestructible,destroy,destroy,pp_fixeduse,destroy,destroy",
       "skill_condition": "character=me,pp_count<8,pp_count<8,pp_count>=8,pp_count>=8,pp_count>=8",
-      "skill_target": "character=me&target=self&card_type=unit,character=me&target=inplay_other_self&card_type=unit&random_count=1,character=op&target=inplay&card_type=unit&random_count=1,none,character=me&target=inplay_other_self&card_type=unit&random_count=2,character=op&target=inplay&card_type=unit&random_count=2",
+      "skill_target": "character=me&target=self&card_type=unit,character=me&target=inplay&card_type=unit&random_count=1,character=op&target=inplay&card_type=unit&random_count=1,none,character=me&target=inplay&card_type=unit&random_count=2,character=op&target=inplay&card_type=unit&random_count=2",
       "skill_option": "none,none,none,fixeduse=8,none,none",
       "skill_preprocess": "none,none,none,none,none,none",
       "skill_disc": "Fanfare: Destroy a random allied follower and random enemy follower.<br>Enhance (8): Destroy 2 instead.<br>Can't be destroyed by effects. (Can be destroyed by damage from effects.)",
