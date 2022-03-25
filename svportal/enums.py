@@ -22,6 +22,7 @@ CARD_SETS = [(10000, 'Basic'),
              (10021, 'Renascent Chronicles'),
              (10022, 'Dawn of Calamity'),
              (10023, 'Omen of Storms'),
+             (10024, 'Edge of Paradise'),
              (70001, 'Prebuilt Decks Set 1'),
              (70002, 'Prebuilt Decks Set 2'),
              (70003, 'Anigera Didoooon Tie-in'),
@@ -45,6 +46,7 @@ CARD_SETS = [(10000, 'Basic'),
              (70022, 'Kaguya-sama: Love Is War? Tie-in'),
              (70023, 'The Idolmaster: Cinderella Girls Tie-in'),
              (70024, 'Shaman King Tie-in'),
+             (70025, 'Umamusume: Pretty Derby Tie-in'),
              (90000, 'Tokens')
             ]
 
