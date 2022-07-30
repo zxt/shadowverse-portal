@@ -11489,7 +11489,7 @@
       "skill": "cant_evolution,heal,damage,summon_token,evolve//quick,killer,guard",
       "skill_condition": "character=me,{me.inplay_self.count}>0&{me.inplay_self.fixed_damage}>=4&{me.received_damage_card.class.count}>0,{me.inplay_self.count}>0&{me.inplay_self.fixed_damage}>=4&{me.received_damage_card.class.count}>0,character=me,character=me//character=me,character=me,character=me",
       "skill_target": "character=me&target=self,character=me&target=inplay&card_type=class,character=me&target=self,none,character=me&target=skill_summoned_card&card_type=unit//character=me&target=self,character=me&target=self,character=me&target=self",
-      "skill_option": "type=ep_use,healing=4,damage=4,summon_token=125741010,none//none,none,none",
+      "skill_option": "type=ep_use,healing=4,damage=4,summon_token=125741010&summon_voice=evo_voice,none//none,none,none",
       "skill_preprocess": "none,none,none,none,none//none,none,none",
       "skill_disc": "Can't be evolved using evolution points. (Can be evolved using card effects.)<br>Whenever your leader takes 4 or more damage, restore 4 defense to your leader and deal 4 damage to this follower.<br>Last Words: Summon an Imperial Saint and evolve it.",
       "org_skill_disc": "Can't be evolved using evolution points. (Can be evolved using card effects.)<br>Whenever your leader takes 4 or more damage, restore 4 defense to your leader and deal 4 damage to this follower.<br>[b]Last Words[/b]: Summon an [b]Imperial Saint[/b] and evolve it.",
