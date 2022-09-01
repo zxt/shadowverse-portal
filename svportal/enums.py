@@ -48,6 +48,7 @@ CARD_SETS = [(10000, 'Basic'),
              (70023, 'The Idolmaster: Cinderella Girls Tie-in'),
              (70024, 'Shaman King Tie-in'),
              (70025, 'Umamusume: Pretty Derby Tie-in'),
+             (70026, 'Chiikawa Tie-in'),
              (90000, 'Tokens')
             ]
 
