@@ -1,5 +1,5 @@
 CARD_SETS = [(10000, 'Basic'),
-             (10001, 'Standard'),
+             (10001, 'Classic'),
              (10002, 'Darkness Evolved'),
              (10003, 'Rise of Bahamut'),
              (10004, 'Tempest of the Gods'),
@@ -24,6 +24,7 @@ CARD_SETS = [(10000, 'Basic'),
              (10023, 'Omen of Storms'),
              (10024, 'Edge of Paradise'),
              (10025, 'Roar of the Godwyrm'),
+             (10026, 'Celestial Dragonblade'),
              (70001, 'Prebuilt Decks Set 1'),
              (70002, 'Prebuilt Decks Set 2'),
              (70003, 'Anigera Didoooon Tie-in'),
@@ -49,6 +50,7 @@ CARD_SETS = [(10000, 'Basic'),
              (70024, 'Shaman King Tie-in'),
              (70025, 'Umamusume: Pretty Derby Tie-in'),
              (70026, 'Chiikawa Tie-in'),
+             (70027, 'Shadowverse Flame Tie-in'),
              (90000, 'Tokens')
             ]
 
