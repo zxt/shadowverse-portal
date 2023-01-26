@@ -18215,7 +18215,7 @@
       "skill": "cost_change,summon_token",
       "skill_condition": "{both.return_card.returned_by=self_ability.count}>0&turn=self,character=me",
       "skill_target": "character=me&target=self,none",
-      "skill_option": "add=0-{both.return_card.count},summon_token=127141020",
+      "skill_option": "add=0-{both.return_card.count},summon_token=127141020&effect=owner",
       "skill_preprocess": "none,none",
       "skill_disc": "During your turn, whenever an allied effect returns 1 or more cards to a player's hand, subtract X from the cost of this card. X equals the number of cards returned.<br>----------<br>When this follower leaves play, summon a Wimael, Redolent Enforcer. (Transformation doesn't count as leaving play.)",
       "org_skill_disc": "During your turn, whenever an allied effect returns 1 or more cards to a player's hand, subtract X from the cost of this card. X equals the number of cards returned.<br>----------<br>When this follower leaves play, summon a [b]Wimael, Redolent Enforcer[/b]. (Transformation doesn't count as leaving play.)",

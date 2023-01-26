@@ -5141,7 +5141,7 @@
       "clan": 4,
       "tribe_name": "Armed",
       "skill": "rush,token_draw,damage,damage",
-      "skill_condition": "character=me,character=me,{me.game_left_cards.unit.tribe=armed.count}>=4,{me.game_left_cards.unit.tribe=armed.count}>=4",
+      "skill_condition": "character=me,character=me,{me.game_left_cards.unit.tribe=armed.count}>=4&{op.inplay.unit.selectable.count}>0,{me.game_left_cards.unit.tribe=armed.count}>=4",
       "skill_target": "character=me,none,character=op&target=inplay&card_type=unit&select_count=1,character=op&target=inplay&card_type=class",
       "skill_option": "none,token_draw=900422010,damage=3,damage=3",
       "skill_preprocess": "none,none,none,none",
