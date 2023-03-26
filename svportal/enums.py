@@ -26,6 +26,7 @@ CARD_SETS = [(10000, 'Basic'),
              (10025, 'Roar of the Godwyrm'),
              (10026, 'Celestial Dragonblade'),
              (10027, 'Eightfold Abyss: Azvaldt'),
+             (10028, 'Academy of Ages'),
              (70001, 'Prebuilt Decks Set 1'),
              (70002, 'Prebuilt Decks Set 2'),
              (70003, 'Anigera Didoooon Tie-in'),
@@ -52,6 +53,7 @@ CARD_SETS = [(10000, 'Basic'),
              (70025, 'Umamusume: Pretty Derby Tie-in'),
              (70026, 'Chiikawa Tie-in'),
              (70027, 'Shadowverse Flame Tie-in'),
+             (70028, 'Hatsune Miku Tie-in'),
              (90000, 'Tokens')
             ]
 
