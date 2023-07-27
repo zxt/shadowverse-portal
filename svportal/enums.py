@@ -55,6 +55,7 @@ CARD_SETS = [(10000, 'Basic'),
              (70026, 'Chiikawa Tie-in'),
              (70027, 'Shadowverse Flame Tie-in'),
              (70028, 'Hatsune Miku Tie-in'),
+             (70029, 'Sanrio Characters Tie-in'),
              (90000, 'Tokens')
             ]
 
