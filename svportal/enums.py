@@ -28,6 +28,8 @@ CARD_SETS = [(10000, 'Basic'),
              (10027, 'Eightfold Abyss: Azvaldt'),
              (10028, 'Academy of Ages'),
              (10029, 'Heroes of Rivenbrandt'),
+             (10030, 'Order Shift'),
+             (20002, 'SPY x FAMILY Tie-in'),
              (70001, 'Prebuilt Decks Set 1'),
              (70002, 'Prebuilt Decks Set 2'),
              (70003, 'Anigera Didoooon Tie-in'),
@@ -56,6 +58,7 @@ CARD_SETS = [(10000, 'Basic'),
              (70027, 'Shadowverse Flame Tie-in'),
              (70028, 'Hatsune Miku Tie-in'),
              (70029, 'Sanrio Characters Tie-in'),
+             (70030, 'SPY x FAMILY Tie-in'),
              (90000, 'Tokens')
             ]
 
