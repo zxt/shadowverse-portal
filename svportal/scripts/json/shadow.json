@@ -1631,8 +1631,8 @@
       "normal_card_id": 123514010,
       "format_type": 0,
       "restricted_count": 3,
-      "restricted_count_co_main": 1,
-      "restricted_count_co_sub": 1
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 717514010,
@@ -1669,8 +1669,8 @@
       "normal_card_id": 717514010,
       "format_type": 0,
       "restricted_count": 3,
-      "restricted_count_co_main": 1,
-      "restricted_count_co_sub": 1
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123534010,
@@ -1821,8 +1821,8 @@
       "normal_card_id": 124534010,
       "format_type": 0,
       "restricted_count": 3,
-      "restricted_count_co_main": 1,
-      "restricted_count_co_sub": 1
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 127514010,
