@@ -36,7 +36,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 128234010,
@@ -74,7 +75,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 820244010,
@@ -112,7 +114,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900234020,
@@ -150,7 +153,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900234040,
@@ -188,7 +192,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900234050,
@@ -226,7 +231,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900234060,
@@ -264,7 +270,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900244030,
@@ -302,7 +309,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 920234010,
@@ -340,7 +348,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 113242010,
@@ -378,7 +387,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900242020,
@@ -416,7 +426,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 100211010,
@@ -454,7 +465,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 702211010,
@@ -492,7 +504,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101211010,
@@ -530,7 +543,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101211120,
@@ -568,7 +582,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 106231020,
@@ -581,7 +596,7 @@
       "clan": 2,
       "tribe_name": "Commander",
       "skill": "none//powerup,guard",
-      "skill_condition": "none//{now.me.inplay.unit.clan=royal.count}>3,{now.me.inplay.unit.clan=royal.count}>3",
+      "skill_condition": "none//{me.inplay.unit.clan=royal.count}>3,{me.inplay.unit.clan=royal.count}>3",
       "skill_target": "none//character=me,character=me",
       "skill_option": "none//add_offense=1,none",
       "skill_preprocess": "none//none,none",
@@ -606,7 +621,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 107211030,
@@ -644,7 +660,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 108211010,
@@ -682,7 +699,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 109221020,
@@ -720,7 +738,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 110231010,
@@ -758,7 +777,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 113211010,
@@ -796,7 +816,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 115241010,
@@ -834,7 +855,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 117221020,
@@ -872,7 +894,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 118211030,
@@ -910,7 +933,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 118231020,
@@ -948,7 +972,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 120221020,
@@ -986,7 +1011,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 715221010,
@@ -1024,7 +1050,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 122231020,
@@ -1062,7 +1089,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 123211030,
@@ -1100,7 +1128,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 123221030,
@@ -1138,7 +1167,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 124221020,
@@ -1176,7 +1206,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 717221020,
@@ -1214,7 +1245,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 125211030,
@@ -1252,7 +1284,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 125221010,
@@ -1290,7 +1323,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 126211030,
@@ -1325,10 +1359,11 @@
       "copyright": null,
       "base_card_id": 126211030,
       "normal_card_id": 126211030,
-      "format_type": 1,
+      "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 126221020,
@@ -1363,10 +1398,11 @@
       "copyright": null,
       "base_card_id": 126221020,
       "normal_card_id": 126221020,
-      "format_type": 1,
+      "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 126231010,
@@ -1401,10 +1437,11 @@
       "copyright": null,
       "base_card_id": 126231010,
       "normal_card_id": 126231010,
-      "format_type": 1,
+      "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 717231020,
@@ -1439,10 +1476,11 @@
       "copyright": null,
       "base_card_id": 126231010,
       "normal_card_id": 717231020,
-      "format_type": 1,
+      "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 127211010,
@@ -1480,7 +1518,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 127241030,
@@ -1518,7 +1557,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 129211010,
@@ -1556,7 +1596,47 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
+    },
+    {
+      "card_id": 720211010,
+      "foil_card_id": 720211011,
+      "card_set_id": 70021,
+      "card_name": "Knightly Thief",
+      "card_name_ruby": "",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 2,
+      "tribe_name": "Officer",
+      "skill": "token_draw,rush",
+      "skill_condition": "none,character=me&target=self&{me.inplay.class.rally_count}>=7",
+      "skill_target": "none,character=me&target=self",
+      "skill_option": "token_draw=900214010,none",
+      "skill_preprocess": "none,none",
+      "skill_disc": "Fanfare: Rally (7) - Gain Rush.<br>Clash: Put a Gilded Blade into your hand.",
+      "org_skill_disc": "[b]Fanfare[/b]: [b]Rally[/b] [b](7)[/b] - Gain [b]Rush[/b].<br>[b]Clash[/b]: Put a [b]Gilded Blade[/b] into your hand.",
+      "evo_skill_disc": "(Same as the unevolved form, excluding Fanfare.)",
+      "org_evo_skill_disc": "(Same as the unevolved form, excluding [b]Fanfare[/b].)",
+      "cost": 1,
+      "atk": 1,
+      "life": 2,
+      "evo_atk": 3,
+      "evo_life": 4,
+      "rarity": 1,
+      "get_red_ether": 0,
+      "use_red_ether": 0,
+      "description": "Life is a river of infinite branching tributaries, which cross and separate and reunite. Though the current may sweep us down different paths, keep sailing toward the red banner and the promise that we will meet again.",
+      "evo_description": "\"Hear that, ladies? Battle calls.\"<br>\"Finally! I was starting to think my sword would rust before we saw any action. Try not to slow me down.\"<br>\"Heh. Some things never change...\"",
+      "cv": "",
+      "copyright": null,
+      "base_card_id": 129211010,
+      "normal_card_id": 720211010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 129231020,
@@ -1594,7 +1674,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 130221020,
@@ -1632,7 +1713,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 130241030,
@@ -1670,7 +1752,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900211010,
@@ -1708,7 +1791,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900211020,
@@ -1746,7 +1830,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900211070,
@@ -1784,7 +1869,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900221010,
@@ -1822,7 +1908,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900241010,
@@ -1860,7 +1947,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900241050,
@@ -1898,7 +1986,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 100214010,
@@ -1936,7 +2025,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 705214010,
@@ -1974,7 +2064,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 102214040,
@@ -2012,7 +2103,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 107224010,
@@ -2050,7 +2142,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 108234010,
@@ -2088,7 +2181,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 109214010,
@@ -2126,7 +2220,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 113224010,
@@ -2164,7 +2259,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 709224020,
@@ -2202,7 +2298,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 113234010,
@@ -2240,7 +2337,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 114224010,
@@ -2278,7 +2376,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 114234020,
@@ -2316,7 +2415,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 115224010,
@@ -2354,7 +2454,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 117214010,
@@ -2392,7 +2493,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 117234010,
@@ -2430,7 +2532,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 713234010,
@@ -2468,7 +2571,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 118224010,
@@ -2506,7 +2610,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 121214010,
@@ -2544,7 +2649,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 121234010,
@@ -2582,7 +2688,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 122214010,
@@ -2620,7 +2727,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 123224010,
@@ -2658,7 +2766,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 123234010,
@@ -2696,7 +2805,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 124224010,
@@ -2734,7 +2844,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 124234010,
@@ -2772,7 +2883,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 128214010,
@@ -2810,7 +2922,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 129214010,
@@ -2848,7 +2961,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 720214010,
@@ -2886,7 +3000,47 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
+    },
+    {
+      "card_id": 131224010,
+      "foil_card_id": 131224011,
+      "card_set_id": 10031,
+      "card_name": "Loyalty's Reward",
+      "card_name_ruby": "",
+      "is_foil": 0,
+      "char_type": 4,
+      "clan": 2,
+      "tribe_name": "-",
+      "skill": "draw,select,powerup,guard,powerup,rush",
+      "skill_condition": "character=me,character=me,character=me,character=me,character=me,character=me",
+      "skill_target": "character=me&target=deck&card_type=unit&random_count=1,character=me&target=inplay&card_type=unit,character=me&target=selected_cards&card_type=unit&clan=royal,character=me&target=selected_cards&card_type=unit&clan=royal,character=me&target=selected_cards&card_type=unit&clan=all,character=me&target=selected_cards&card_type=unit&clan=all",
+      "skill_option": "none,none,add_life=1,none,add_offense=1,none",
+      "skill_preprocess": "none,none,none,none,none,none",
+      "skill_disc": "Put a random follower from your deck into your hand.<br>Select an allied follower. If it's a Swordcraft follower, give it +0/+1 and Ward. If it's a Neutral follower, give it +1/+0 and Rush.",
+      "org_skill_disc": "Put a random follower from your deck into your hand.<br>Select an allied follower. If it's a Swordcraft follower, give it +0/+1 and [b]Ward[/b]. If it's a Neutral follower, give it +1/+0 and [b]Rush[/b].",
+      "evo_skill_disc": "",
+      "org_evo_skill_disc": "",
+      "cost": 1,
+      "atk": 0,
+      "life": 0,
+      "evo_atk": 0,
+      "evo_life": 0,
+      "rarity": 2,
+      "get_red_ether": 50,
+      "use_red_ether": 200,
+      "description": "A good man hopes for justice, a knight upholds it. You knelt a man, now rise a knight.",
+      "evo_description": "",
+      "cv": "",
+      "copyright": null,
+      "base_card_id": 131224010,
+      "normal_card_id": 131224010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 1
     },
     {
       "card_id": 800234020,
@@ -2924,7 +3078,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800244090,
@@ -2962,7 +3117,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800244100,
@@ -3000,7 +3156,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800244130,
@@ -3038,7 +3195,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800244140,
@@ -3076,7 +3234,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900214010,
@@ -3114,7 +3273,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900214020,
@@ -3152,7 +3312,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900214030,
@@ -3190,7 +3351,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900214040,
@@ -3228,7 +3390,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900214050,
@@ -3266,7 +3429,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900214060,
@@ -3304,7 +3468,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900224020,
@@ -3342,7 +3507,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900244020,
@@ -3380,7 +3546,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101232020,
@@ -3418,7 +3585,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 104213010,
@@ -3456,7 +3624,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800233010,
@@ -3494,7 +3663,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800243010,
@@ -3532,7 +3702,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800243020,
@@ -3570,7 +3741,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 100211020,
@@ -3608,7 +3780,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 100211060,
@@ -3646,7 +3819,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101211020,
@@ -3684,7 +3858,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101211030,
@@ -3722,7 +3897,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101211040,
@@ -3760,7 +3936,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101211050,
@@ -3798,7 +3975,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101211110,
@@ -3836,7 +4014,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101221010,
@@ -3874,7 +4053,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101221020,
@@ -3912,7 +4092,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101221080,
@@ -3950,7 +4131,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101221090,
@@ -3988,7 +4170,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 102211020,
@@ -4026,7 +4209,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 102221010,
@@ -4039,7 +4223,7 @@
       "clan": 2,
       "tribe_name": "Officer",
       "skill": "none//powerup",
-      "skill_condition": "none//{now.me.inplay.unit_and_allfield.tribe=lord.count}>0",
+      "skill_condition": "none//{me.inplay.unit_and_allfield.tribe=lord.count}>0",
       "skill_target": "none//character=me",
       "skill_option": "none//add_offense=1&add_life=1",
       "skill_preprocess": "none//none",
@@ -4064,7 +4248,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 103211050,
@@ -4102,7 +4287,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 103221030,
@@ -4140,7 +4326,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 104211020,
@@ -4178,7 +4365,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 105221030,
@@ -4216,7 +4404,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 105231010,
@@ -4254,7 +4443,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 106221010,
@@ -4292,7 +4482,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 702221010,
@@ -4330,7 +4521,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 106231010,
@@ -4368,7 +4560,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 107221020,
@@ -4406,7 +4599,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 107231020,
@@ -4444,7 +4638,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 108211030,
@@ -4482,7 +4677,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 108221020,
@@ -4520,7 +4716,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 108231010,
@@ -4558,7 +4755,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 108231020,
@@ -4596,7 +4794,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 108241010,
@@ -4634,7 +4833,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 109211030,
@@ -4672,7 +4872,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 110211030,
@@ -4710,7 +4911,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 111211030,
@@ -4748,7 +4950,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 111231010,
@@ -4786,7 +4989,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 112211010,
@@ -4824,7 +5028,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 112211020,
@@ -4862,7 +5067,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 113211020,
@@ -4900,7 +5106,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 113221010,
@@ -4938,7 +5145,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 113221020,
@@ -4976,7 +5184,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 114211030,
@@ -5014,7 +5223,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 114221020,
@@ -5052,7 +5262,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 115211020,
@@ -5090,7 +5301,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 115221020,
@@ -5128,7 +5340,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 115231010,
@@ -5166,7 +5379,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 116211010,
@@ -5204,7 +5418,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 116221020,
@@ -5242,7 +5457,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 116221030,
@@ -5280,7 +5496,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 116231020,
@@ -5318,7 +5535,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 117211030,
@@ -5356,7 +5574,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 117231020,
@@ -5394,7 +5613,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 118211020,
@@ -5432,7 +5652,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 119221010,
@@ -5470,7 +5691,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 119221020,
@@ -5508,7 +5730,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 119231010,
@@ -5546,7 +5769,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 120211010,
@@ -5584,7 +5808,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 120221010,
@@ -5622,7 +5847,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 120231020,
@@ -5660,7 +5886,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 121211010,
@@ -5698,7 +5925,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 121211030,
@@ -5736,7 +5964,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 121221020,
@@ -5774,7 +6003,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 122211020,
@@ -5812,7 +6042,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 122231010,
@@ -5850,7 +6081,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 123211020,
@@ -5888,7 +6120,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 123231020,
@@ -5926,7 +6159,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 124211010,
@@ -5964,7 +6198,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 124241010,
@@ -6002,7 +6237,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 125211010,
@@ -6040,7 +6276,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 125211020,
@@ -6078,7 +6315,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 125221030,
@@ -6116,7 +6354,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 125231010,
@@ -6154,7 +6393,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 125231020,
@@ -6192,7 +6432,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 126211010,
@@ -6227,10 +6468,11 @@
       "copyright": null,
       "base_card_id": 126211010,
       "normal_card_id": 126211010,
-      "format_type": 1,
+      "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 126211020,
@@ -6265,10 +6507,11 @@
       "copyright": null,
       "base_card_id": 126211020,
       "normal_card_id": 126211020,
-      "format_type": 1,
+      "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 126221030,
@@ -6303,10 +6546,11 @@
       "copyright": null,
       "base_card_id": 126221030,
       "normal_card_id": 126221030,
-      "format_type": 1,
+      "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 127211020,
@@ -6344,7 +6588,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 127221010,
@@ -6382,7 +6627,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 128211020,
@@ -6420,7 +6666,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 128211030,
@@ -6458,7 +6705,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 128241030,
@@ -6496,7 +6744,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 129221020,
@@ -6534,7 +6783,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 129241010,
@@ -6572,7 +6822,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 130211010,
@@ -6610,7 +6861,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 130221010,
@@ -6648,7 +6900,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 130231010,
@@ -6686,7 +6939,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 130241020,
@@ -6724,7 +6978,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 719241020,
@@ -6762,7 +7017,164 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
+    },
+    {
+      "card_id": 131211020,
+      "foil_card_id": 131211021,
+      "card_set_id": 10031,
+      "card_name": "Princess of Gratitude",
+      "card_name_ruby": "",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 2,
+      "tribe_name": "Commander",
+      "skill": "draw//draw,summon_card",
+      "skill_condition": "character=me//character=me,character=me",
+      "skill_target": "character=me&target=deck&card_type=all&random_count=1//character=me&target=deck&card_type=all&random_count=1,{me.deck.unit.cost=1.random_count=1}",
+      "skill_option": "none//none,none",
+      "skill_preprocess": "none//none,none",
+      "skill_disc": "Last Words: Draw a card.",
+      "org_skill_disc": "[b]Last Words[/b]: Draw a card.",
+      "evo_skill_disc": "Evolve: Put a random 1-play-point follower from your deck into play.<br>Last Words: Draw a card.",
+      "org_evo_skill_disc": "[b]Evolve[/b]: Put a random 1-play-point follower from your deck into play.<br>[b]Last Words[/b]: Draw a card.",
+      "cost": 2,
+      "atk": 2,
+      "life": 2,
+      "evo_atk": 4,
+      "evo_life": 4,
+      "rarity": 1,
+      "get_red_ether": 10,
+      "use_red_ether": 50,
+      "description": "I can't farm or craft or fight, and yet my people pay homage to me. They keep me fed, clothed, and protected—simply because I was born their princess. The least I can do is keep smiling for them.",
+      "evo_description": "Once upon a time, there was a princess. She had no skill except to smile, and yet was a better ruler than the grasping, Machiavellian aristocrats. For as she loved her people, they loved her—and under the warmth of her gaze, all gladly labored and prospered.",
+      "cv": "",
+      "copyright": null,
+      "base_card_id": 131211020,
+      "normal_card_id": 131211020,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
+    },
+    {
+      "card_id": 131221010,
+      "foil_card_id": 131221011,
+      "card_set_id": 10031,
+      "card_name": "Invisible Soldier",
+      "card_name_ruby": "",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 2,
+      "tribe_name": "Officer",
+      "skill": "rush,ignore_guard,summon_token,pp_fixeduse,summon_token,pp_fixeduse,powerup,quick",
+      "skill_condition": "character=me,character=me,pp_count<4,pp_count>=4,pp_count>=4,pp_count>=8,pp_count>=8,pp_count>=8",
+      "skill_target": "character=me,character=me,none,none,none,none,character=me&target=inplay&card_type=unit&base_card_id=131221010,character=me&target=inplay&card_type=unit&base_card_id=131221010",
+      "skill_option": "none,none,summon_token=131221010,fixeduse=4,summon_token=131221010:131221010:131221010,fixeduse=8,add_offense=1&add_life=3,none",
+      "skill_preprocess": "none,none,none,none,none,none,none,none",
+      "skill_disc": "Rush.<br>Fanfare: Summon an Invisible Soldier.<br>Enhance (4): Summon 3 instead.<br>Enhance (8): Give all allied Invisible Soldiers +1/+3 and Storm.<br>Ignore Ward.",
+      "org_skill_disc": "[b]Rush[/b].<br>[b]Fanfare[/b]: Summon an [b]Invisible Soldier[/b].<br>[b]Enhance[/b] [b](4)[/b]: Summon 3 instead.<br>[b]Enhance[/b] [b](8)[/b]: Give all allied [b]Invisible Soldier[/b][b]s[/b] +1/+3 and [b]Storm[/b].<br>Ignore [b]Ward[/b].",
+      "evo_skill_disc": "(Same as the unevolved form, excluding Fanfare.)",
+      "org_evo_skill_disc": "(Same as the unevolved form, excluding [b]Fanfare[/b].)",
+      "cost": 2,
+      "atk": 1,
+      "life": 1,
+      "evo_atk": 3,
+      "evo_life": 3,
+      "rarity": 2,
+      "get_red_ether": 50,
+      "use_red_ether": 200,
+      "description": "Just 'cause I haven't made a name for myself, you treat me like a transparent nobody. Well, take another look. 'Cause mine is about to be the last face you'll ever see.",
+      "evo_description": "Surprised? I can see right through you. While everyone else was fighting for the spotlight, I was training behind the scenes. And remember, the most valuable things in life can't be seen by the eye.",
+      "cv": "",
+      "copyright": null,
+      "base_card_id": 131221010,
+      "normal_card_id": 131221010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
+    },
+    {
+      "card_id": 131231010,
+      "foil_card_id": 131231011,
+      "card_set_id": 10031,
+      "card_name": "High-Minded Knight",
+      "card_name_ruby": "",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 2,
+      "tribe_name": "Officer",
+      "skill": "rush,attach_skill,powerup,heal",
+      "skill_condition": "character=me,character=me&target=attacker&attacker=self&{me.inplay.unit_and_allfield.clan=all.count}>=2,{me.inplay.all.count}>0,character=me",
+      "skill_target": "character=me,character=me&target=inplay&card_type=class,character=me&target=inplay&card_type=unit&clan=all&select_count=1,character=me&target=inplay&card_type=class",
+      "skill_option": "none,skill=(skill:shield)(timing:when_change_inplay_immediate)(condition:character=me)(target:character=me&target=self&card_type=class)(option:type=all)(preprocess:damage_after_stop),add_offense=1&add_life=1,healing=2",
+      "skill_preprocess": "none,none,none,none",
+      "skill_disc": "Rush.<br>Fanfare: Give +1/+1 to an allied Neutral follower. Restore 2 defense to your leader.<br>Strike: If there are at least 2 allied Neutral cards in play, give your leader the following effect - The next time your leader takes damage, reduce that damage to 0.",
+      "org_skill_disc": "[b]Rush[/b].<br>[b]Fanfare[/b]: Give +1/+1 to an allied Neutral follower. Restore 2 defense to your leader.<br>[b]Strike[/b]: If there are at least 2 allied Neutral cards in play, give your leader the following effect - The next time your leader takes damage, reduce that damage to 0.",
+      "evo_skill_disc": "(Same as the unevolved form, excluding Fanfare.)",
+      "org_evo_skill_disc": "(Same as the unevolved form, excluding [b]Fanfare[/b].)",
+      "cost": 2,
+      "atk": 1,
+      "life": 1,
+      "evo_atk": 3,
+      "evo_life": 3,
+      "rarity": 3,
+      "get_red_ether": 250,
+      "use_red_ether": 800,
+      "description": "I can't stand bullies. That's why I decided to become a knight—so I can stop them. Don't worry, okay? No one's going to push you around again.",
+      "evo_description": "By the flames of war, we see that might makes right. They who wield the scepter and the sword decide what is good and what is evil. Thus, the powerless are branded as sinful, and their murder deemed justice.",
+      "cv": "",
+      "copyright": null,
+      "base_card_id": 131231010,
+      "normal_card_id": 131231010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
+    },
+    {
+      "card_id": 131241010,
+      "foil_card_id": 131241011,
+      "card_set_id": 10031,
+      "card_name": "Charlemagne, Great Unifier",
+      "card_name_ruby": "",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 2,
+      "tribe_name": "Commander",
+      "skill": "guard,consume_ep_modifier//attach_skill,attach_skill",
+      "skill_condition": "character=me,character=me//character=me,character=me",
+      "skill_target": "character=me,character=me&target=self//character=me&target=inplay&card_type=class,character=me&target=inplay&card_type=class",
+      "skill_option": "none,none//skill=(skill:damage_modifier)(timing:when_change_inplay_immediate)(condition:character=me&target=inplay&card_type=class)(target:character=me&target=inplay&card_type=class)(option:add_damage=1&card_type=unit&clan=all)(preprocess:none)&duplicate_ban_id=1312410101,skill=(skill:evolve)(timing:when_buff_self_and_other)(condition:character=me&target=inplay_buffing_cards&card_type=unit&clan=all&evolution=false&turn=self)(target:character=me&target=inplay_buffing_cards&card_type=unit&clan=all&evolution=false)(option:none)(preprocess:per_turn=1)(effect_path:btl_131241010_3)(se_path:se_btl_131241010_3)(effect_move_type:DIRECT)(engine_type:SHURIKEN)(effect_time:0.1)(effect_target_type:single)&duplicate_ban_id=1312410102",
+      "skill_preprocess": "none,none//none,none",
+      "skill_disc": "Ward.<br>Can evolve for 0 evolution points.",
+      "org_skill_disc": "[b]Ward[/b].<br>Can evolve for 0 evolution points.",
+      "evo_skill_disc": "Ward.<br>Evolve: Give your leader the following effects.<br>-Allied Neutral followers deal +1 damage.<br>-Once on each of your turns, when an unevolved Neutral follower's attack or defense is increased by an effect, evolve it.<br>(These effects are not stackable and last for the rest of the match.)",
+      "org_evo_skill_disc": "[b]Ward[/b].<br>[b]Evolve[/b]: Give your leader the following effects.<br>-Allied Neutral followers deal +1 damage.<br>-Once on each of your turns, when an unevolved Neutral follower's attack or defense is increased by an effect, evolve it.<br>(These effects are not stackable and last for the rest of the match.)",
+      "cost": 2,
+      "atk": 2,
+      "life": 2,
+      "evo_atk": 4,
+      "evo_life": 4,
+      "rarity": 4,
+      "get_red_ether": 1000,
+      "use_red_ether": 3500,
+      "description": "A king who lacks judgment is no king at all. Wisdom is essential to leadership, and the wisest question their own knowledge. It is not the divine right of kings, but assurance in my own sagacity that will convince me of my right to rule.",
+      "evo_description": "The ability to discern good and evil is worthless without the strength to act. With the blade of mirth, Joyeuse, in hand, I will bring about peace in these lands. While my authority is merely borrowed from above... I know my actions are just.",
+      "cv": "",
+      "copyright": null,
+      "base_card_id": 131241010,
+      "normal_card_id": 131241010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 810211010,
@@ -6800,7 +7212,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 820241010,
@@ -6838,7 +7251,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900211030,
@@ -6876,7 +7290,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900211080,
@@ -6914,7 +7329,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900211090,
@@ -6952,7 +7368,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900211100,
@@ -6990,7 +7407,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900231080,
@@ -7028,7 +7446,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900231090,
@@ -7066,7 +7485,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900231110,
@@ -7104,7 +7524,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101224010,
@@ -7117,7 +7538,7 @@
       "clan": 2,
       "tribe_name": "-",
       "skill": "draw,draw",
-      "skill_condition": "{now.me.deck.count}>0,{now.me.deck.count}>1&{now.me.inplay.unit_and_allfield.tribe=lord.count}>0",
+      "skill_condition": "{me.deck.count}>0,{me.deck.count}>1&{me.inplay.unit_and_allfield.tribe=lord.count}>0",
       "skill_target": "character=me&target=deck&card_type=all&tribe=legion&random_count=1,character=me&target=deck&card_type=all&tribe=legion&random_count=1",
       "skill_option": "none,none",
       "skill_preprocess": "none,none",
@@ -7142,7 +7563,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 102224040,
@@ -7180,7 +7602,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 105224010,
@@ -7218,7 +7641,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 106224010,
@@ -7256,7 +7680,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 110214010,
@@ -7294,7 +7719,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 111214010,
@@ -7332,7 +7758,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 708214010,
@@ -7370,7 +7797,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 112224010,
@@ -7408,7 +7836,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 709224010,
@@ -7446,7 +7875,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 114214010,
@@ -7484,7 +7914,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 114234010,
@@ -7522,7 +7953,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 709234010,
@@ -7560,7 +7992,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 117224010,
@@ -7598,7 +8031,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 119224010,
@@ -7636,7 +8070,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 120224010,
@@ -7674,7 +8109,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 121224010,
@@ -7712,7 +8148,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 124214010,
@@ -7750,7 +8187,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 717214010,
@@ -7788,7 +8226,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 125214010,
@@ -7826,7 +8265,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 127214010,
@@ -7864,7 +8304,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 129224010,
@@ -7902,7 +8343,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 130224010,
@@ -7940,7 +8382,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 130234010,
@@ -7978,7 +8421,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800214010,
@@ -8016,7 +8460,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800214020,
@@ -8054,7 +8499,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800214050,
@@ -8092,7 +8538,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800234010,
@@ -8130,7 +8577,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800234040,
@@ -8168,7 +8616,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800244010,
@@ -8206,7 +8655,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800244020,
@@ -8244,7 +8694,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800244030,
@@ -8282,7 +8733,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800244070,
@@ -8320,7 +8772,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800244120,
@@ -8358,7 +8811,47 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
+    },
+    {
+      "card_id": 810234020,
+      "foil_card_id": 810234021,
+      "card_set_id": 90000,
+      "card_name": null,
+      "card_name_ruby": "",
+      "is_foil": 0,
+      "char_type": 4,
+      "clan": 2,
+      "tribe_name": "-",
+      "skill": "fusion,fusion_metamorphose,damage,summon_token",
+      "skill_condition": "none,character=me,character=op&target=inplay&card_type=unit,character=me",
+      "skill_target": "character=me&target=hand_other_self&card_type=unit&select_count=8,character=me&target=self&card_type=spell,character=op&target=inplay&card_type=unit&select_count=1,none",
+      "skill_option": "none,metamorphose=920234010,damage=3,summon_token=900211020",
+      "skill_preprocess": "none,none,none,none",
+      "skill_disc": "",
+      "org_skill_disc": "",
+      "evo_skill_disc": "",
+      "org_evo_skill_disc": "",
+      "cost": 2,
+      "atk": 0,
+      "life": 0,
+      "evo_atk": 0,
+      "evo_life": 0,
+      "rarity": 3,
+      "get_red_ether": 0,
+      "use_red_ether": 0,
+      "description": "",
+      "evo_description": "",
+      "cv": "",
+      "copyright": null,
+      "base_card_id": 810234020,
+      "normal_card_id": 810234020,
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900224040,
@@ -8396,7 +8889,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900234010,
@@ -8434,7 +8928,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900234030,
@@ -8472,7 +8967,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900244040,
@@ -8510,7 +9006,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900244050,
@@ -8548,7 +9045,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900244060,
@@ -8586,7 +9084,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101222010,
@@ -8624,7 +9123,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 109223010,
@@ -8662,7 +9162,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900223010,
@@ -8700,7 +9201,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900223020,
@@ -8738,7 +9240,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 100211030,
@@ -8776,7 +9279,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101211060,
@@ -8814,7 +9318,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101211090,
@@ -8852,7 +9357,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101211100,
@@ -8890,7 +9396,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101221050,
@@ -8928,7 +9435,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101221070,
@@ -8966,7 +9474,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101231030,
@@ -9004,7 +9513,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 102211010,
@@ -9042,7 +9552,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 102221020,
@@ -9080,7 +9591,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 102231010,
@@ -9118,7 +9630,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 103211030,
@@ -9156,7 +9669,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 103211060,
@@ -9194,7 +9708,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 104211040,
@@ -9232,7 +9747,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 104231020,
@@ -9270,7 +9786,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 105211030,
@@ -9308,7 +9825,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 105221010,
@@ -9346,7 +9864,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 105221020,
@@ -9384,7 +9903,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 105241010,
@@ -9422,7 +9942,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 106211010,
@@ -9460,7 +9981,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 106221020,
@@ -9498,7 +10020,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 106221030,
@@ -9536,7 +10059,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 106241010,
@@ -9574,7 +10098,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 107211020,
@@ -9612,7 +10137,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 107231010,
@@ -9650,7 +10176,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 108211020,
@@ -9688,7 +10215,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 108221010,
@@ -9726,7 +10254,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 108221030,
@@ -9764,7 +10293,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 109211010,
@@ -9802,7 +10332,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 109221010,
@@ -9840,7 +10371,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 110211020,
@@ -9878,7 +10410,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 110221020,
@@ -9916,7 +10449,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 110221030,
@@ -9954,7 +10488,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 110241010,
@@ -9992,7 +10527,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 111211010,
@@ -10030,7 +10566,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 111221020,
@@ -10068,7 +10605,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 111241020,
@@ -10106,7 +10644,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 112211030,
@@ -10144,7 +10683,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 112231020,
@@ -10182,7 +10722,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 113211030,
@@ -10220,7 +10761,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 113231010,
@@ -10258,7 +10800,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 114211010,
@@ -10296,7 +10839,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 114241030,
@@ -10334,7 +10878,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 714241010,
@@ -10372,7 +10917,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 115211030,
@@ -10410,7 +10956,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 115241020,
@@ -10448,7 +10995,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 116211020,
@@ -10486,7 +11034,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 116221010,
@@ -10524,7 +11073,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 116231010,
@@ -10562,7 +11112,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 117221010,
@@ -10600,7 +11151,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 117241010,
@@ -10638,7 +11190,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 118211010,
@@ -10676,7 +11229,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 118221010,
@@ -10714,7 +11268,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 119211020,
@@ -10752,7 +11307,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 119231030,
@@ -10790,7 +11346,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 120241020,
@@ -10828,7 +11385,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 121221010,
@@ -10866,7 +11424,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 715221020,
@@ -10904,7 +11463,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 121241020,
@@ -10942,7 +11502,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 121241030,
@@ -10980,7 +11541,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 122221020,
@@ -11018,7 +11580,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 122241020,
@@ -11056,7 +11619,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 123211010,
@@ -11094,7 +11658,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 123241010,
@@ -11132,7 +11697,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 123241020,
@@ -11170,7 +11736,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 124221010,
@@ -11208,7 +11775,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 717221010,
@@ -11246,7 +11814,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 124241030,
@@ -11284,7 +11853,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 718241010,
@@ -11322,7 +11892,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 125221020,
@@ -11360,7 +11931,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 126231020,
@@ -11395,10 +11967,11 @@
       "copyright": null,
       "base_card_id": 126231020,
       "normal_card_id": 126231020,
-      "format_type": 1,
+      "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 126241020,
@@ -11433,10 +12006,11 @@
       "copyright": null,
       "base_card_id": 126241020,
       "normal_card_id": 126241020,
-      "format_type": 1,
+      "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 127211030,
@@ -11474,7 +12048,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 127221020,
@@ -11512,7 +12087,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 127231010,
@@ -11550,7 +12126,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 127231030,
@@ -11588,7 +12165,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 0,
-      "restricted_count_co_sub": 0
+      "restricted_count_co_sub": 0,
+      "resurgent_card": 0
     },
     {
       "card_id": 128221010,
@@ -11626,7 +12204,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 128241010,
@@ -11664,7 +12243,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 129211030,
@@ -11702,7 +12282,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 130211030,
@@ -11740,7 +12321,86 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
+    },
+    {
+      "card_id": 131211010,
+      "foil_card_id": 131211011,
+      "card_set_id": 10031,
+      "card_name": "Wee Greatsword Warrior",
+      "card_name_ruby": "",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 2,
+      "tribe_name": "Officer",
+      "skill": "destroy,pp_fixeduse,destroy,evolve//quick,drain",
+      "skill_condition": "pp_count<7,pp_count>=7,pp_count>=7,pp_count>=7//character=me,character=me",
+      "skill_target": "character=op&target=inplay&card_type=unit&random_count=1,none,character=op&target=inplay&card_type=unit&random_count=3,character=me&target=self//character=me,character=me",
+      "skill_option": "none,fixeduse=7,none,none//none,none",
+      "skill_preprocess": "none,none,none,none//none,none",
+      "skill_disc": "Fanfare: Destroy a random enemy follower.<br>Enhance (7): Destroy 3 instead. Evolve this follower.",
+      "org_skill_disc": "[b]Fanfare[/b]: Destroy a random enemy follower.<br>[b]Enhance[/b] [b](7)[/b]: Destroy 3 instead. Evolve this follower.",
+      "evo_skill_disc": "Storm.<br>Drain.",
+      "org_evo_skill_disc": "[b]Storm[/b].<br>[b]Drain[/b].",
+      "cost": 3,
+      "atk": 2,
+      "life": 2,
+      "evo_atk": 4,
+      "evo_life": 4,
+      "rarity": 1,
+      "get_red_ether": 10,
+      "use_red_ether": 50,
+      "description": "I can barely swing this thing... My arms are shaking and my back is killing me. But I can handle a one-on-one fight. It'll just take, literally, some heavy lifting.",
+      "evo_description": "You think I'm in trouble just 'cause you surrounded me? Did you not notice how massive this sword is? One good swing and I'll destroy you all! Along with my back...",
+      "cv": "",
+      "copyright": null,
+      "base_card_id": 131211010,
+      "normal_card_id": 131211010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
+    },
+    {
+      "card_id": 131231020,
+      "foil_card_id": 131231021,
+      "card_set_id": 10031,
+      "card_name": "Troya, Nocturnal Scout",
+      "card_name_ruby": "",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 2,
+      "tribe_name": "Officer",
+      "skill": "draw,evolve",
+      "skill_condition": "{me.hand_other_self.clan=royal.count}>=2,{me.hand.clan=all.count}>=2",
+      "skill_target": "character=me&target=deck&card_type=all&tribe=lord&random_count=1,character=me&target=self",
+      "skill_option": "none,none",
+      "skill_preprocess": "none,none",
+      "skill_disc": "Fanfare: If you have at least 2 other Swordcraft cards in your hand, put a random Commander card from your deck into your hand.<br>Fanfare: If you have at least 2 Neutral cards in your hand, evolve this follower.",
+      "org_skill_disc": "[b]Fanfare[/b]: If you have at least 2 other Swordcraft cards in your hand, put a random Commander card from your deck into your hand.<br>[b]Fanfare[/b]: If you have at least 2 Neutral cards in your hand, evolve this follower.",
+      "evo_skill_disc": "",
+      "org_evo_skill_disc": "",
+      "cost": 3,
+      "atk": 2,
+      "life": 2,
+      "evo_atk": 4,
+      "evo_life": 4,
+      "rarity": 3,
+      "get_red_ether": 250,
+      "use_red_ether": 800,
+      "description": "I'd be lying if I said I wasn't lonely. But I have my reasons. I've been tainted by the sinful duty I was given, and as such I have no right to get close to anyone. Eep! U-um... It freaks me out when you get close like that all of a sudden!",
+      "evo_description": "The Thunder of Hagelberg... Even now I am unable to escape my ill reputation. But still, I—Eep! I told you, I'm tainted! A-and either way, it's embarrassing being so close to someone! Wahhh!",
+      "cv": "",
+      "copyright": null,
+      "base_card_id": 131231020,
+      "normal_card_id": 131231020,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 1
     },
     {
       "card_id": 820231010,
@@ -11778,7 +12438,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 820241030,
@@ -11816,7 +12477,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900211040,
@@ -11854,7 +12516,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900211050,
@@ -11892,7 +12555,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900211060,
@@ -11930,7 +12594,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900231130,
@@ -11968,7 +12633,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900241090,
@@ -12006,7 +12672,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900241100,
@@ -12044,7 +12711,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900241110,
@@ -12082,7 +12750,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900241120,
@@ -12120,7 +12789,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900241130,
@@ -12158,7 +12828,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900241140,
@@ -12196,7 +12867,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 920241010,
@@ -12234,7 +12906,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 100214020,
@@ -12272,7 +12945,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 713214020,
@@ -12310,7 +12984,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101214030,
@@ -12348,7 +13023,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 103214020,
@@ -12386,7 +13062,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 105214010,
@@ -12424,7 +13101,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 107214010,
@@ -12462,7 +13140,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 115234010,
@@ -12500,7 +13179,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 116214010,
@@ -12538,7 +13218,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 116234010,
@@ -12576,7 +13257,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 118214010,
@@ -12614,7 +13296,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 118234010,
@@ -12652,7 +13335,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 120214010,
@@ -12690,7 +13374,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 715214010,
@@ -12728,7 +13413,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 122244010,
@@ -12766,7 +13452,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 128224010,
@@ -12804,7 +13491,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 717224010,
@@ -12842,7 +13530,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 130214010,
@@ -12880,7 +13569,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800214030,
@@ -12918,7 +13608,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800234030,
@@ -12956,7 +13647,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800244060,
@@ -12994,7 +13686,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800244150,
@@ -13032,7 +13725,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 102232020,
@@ -13070,7 +13764,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 103233010,
@@ -13108,7 +13803,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 104222010,
@@ -13146,7 +13842,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 112222010,
@@ -13184,7 +13881,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 709222010,
@@ -13222,7 +13920,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 820243010,
@@ -13260,7 +13959,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900242030,
@@ -13298,7 +13998,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 100211040,
@@ -13336,7 +14037,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 100221010,
@@ -13374,7 +14076,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101211070,
@@ -13412,7 +14115,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101221030,
@@ -13450,7 +14154,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101221100,
@@ -13488,7 +14193,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101231010,
@@ -13526,7 +14232,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101231050,
@@ -13564,7 +14271,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 102211060,
@@ -13602,7 +14310,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 103221040,
@@ -13640,7 +14349,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 103231020,
@@ -13678,7 +14388,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 104221040,
@@ -13716,7 +14427,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 104241020,
@@ -13754,7 +14466,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 107221010,
@@ -13792,7 +14505,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 109211020,
@@ -13830,7 +14544,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 109231010,
@@ -13868,7 +14583,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 110211010,
@@ -13906,7 +14622,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 110221010,
@@ -13944,7 +14661,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 111211020,
@@ -13982,7 +14700,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 112221020,
@@ -14020,7 +14739,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 112231010,
@@ -14058,7 +14778,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 112241010,
@@ -14096,7 +14817,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 114241020,
@@ -14134,7 +14856,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 115231020,
@@ -14172,7 +14895,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 117231010,
@@ -14210,7 +14934,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 117241030,
@@ -14248,7 +14973,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 118241020,
@@ -14286,7 +15012,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 715241010,
@@ -14324,7 +15051,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 118241030,
@@ -14362,7 +15090,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 119211040,
@@ -14400,7 +15129,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 119241020,
@@ -14438,7 +15168,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 120211020,
@@ -14476,7 +15207,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 120231010,
@@ -14514,7 +15246,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 121211020,
@@ -14552,7 +15285,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 121231020,
@@ -14590,7 +15324,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 122211010,
@@ -14628,7 +15363,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 122221010,
@@ -14666,7 +15402,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 122221030,
@@ -14704,7 +15441,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 124231010,
@@ -14742,7 +15480,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 124241020,
@@ -14780,7 +15519,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 125241020,
@@ -14818,7 +15558,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 719241010,
@@ -14856,7 +15597,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 126221010,
@@ -14891,10 +15633,11 @@
       "copyright": null,
       "base_card_id": 126221010,
       "normal_card_id": 126221010,
-      "format_type": 1,
+      "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 126241010,
@@ -14929,10 +15672,11 @@
       "copyright": null,
       "base_card_id": 126241010,
       "normal_card_id": 126241010,
-      "format_type": 1,
+      "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 127241010,
@@ -14970,7 +15714,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 721241010,
@@ -15008,7 +15753,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 128211010,
@@ -15046,7 +15792,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 128231010,
@@ -15084,7 +15831,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 128231020,
@@ -15122,7 +15870,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 129221010,
@@ -15160,7 +15909,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 129231010,
@@ -15198,7 +15948,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 129241030,
@@ -15236,7 +15987,47 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
+    },
+    {
+      "card_id": 131221020,
+      "foil_card_id": 131221021,
+      "card_set_id": 10031,
+      "card_name": "Brutish Buccaneer",
+      "card_name_ruby": "",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 2,
+      "tribe_name": "Officer",
+      "skill": "rush,token_draw,evolve//token_draw,heal",
+      "skill_condition": "character=me,character=me,character=me&turn=self//character=me,{me.inplay_self.count}>0",
+      "skill_target": "character=me,none,character=me&target=self//none,character=me",
+      "skill_option": "none,token_draw=900214040,none//token_draw=900214040,healing={me.inplay.unit.max.life.max_life}",
+      "skill_preprocess": "none,none,none//none,none",
+      "skill_disc": "Rush.<br>Clash: Put a Gilded Necklace into your hand.<br>During your turn, when this follower's attack or defense is increased by an effect, evolve it.",
+      "org_skill_disc": "[b]Rush[/b].<br>[b]Clash[/b]: Put a [b]Gilded Necklace[/b] into your hand.<br>During your turn, when this follower's attack or defense is increased by an effect, evolve it.",
+      "evo_skill_disc": "Rush.<br>Clash: Put a Gilded Necklace into your hand.<br>At the end of your turn, fully restore this follower's defense.",
+      "org_evo_skill_disc": "[b]Rush[/b].<br>[b]Clash[/b]: Put a [b]Gilded Necklace[/b] into your hand.<br>At the end of your turn, fully restore this follower's defense.",
+      "cost": 4,
+      "atk": 4,
+      "life": 4,
+      "evo_atk": 6,
+      "evo_life": 6,
+      "rarity": 2,
+      "get_red_ether": 50,
+      "use_red_ether": 200,
+      "description": "When I was a kid, I found a treasure map in a garbage dump. Turned out to be a fake someone had drawn for fun, but it was enough to shake me loose from my narrow little world... to show me what was worth risking my life for! —Autobiography of an Unknown Pirate",
+      "evo_description": "That fake map said the treasure lay beyond an unknown ocean. So I grew up, became a pirate, and reached that very place: An empty land of perfect freedom. In a way, the map was more genuine than its maker knew!<br>—Autobiography of an Unknown Pirate",
+      "cv": "",
+      "copyright": null,
+      "base_card_id": 131221020,
+      "normal_card_id": 131221020,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 1
     },
     {
       "card_id": 820241020,
@@ -15274,7 +16065,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900231010,
@@ -15312,7 +16104,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900231020,
@@ -15350,7 +16143,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900231120,
@@ -15388,7 +16182,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900241040,
@@ -15426,7 +16221,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900241080,
@@ -15464,7 +16260,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101214010,
@@ -15502,7 +16299,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101234010,
@@ -15540,7 +16338,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 107234010,
@@ -15578,7 +16377,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 113214010,
@@ -15616,7 +16416,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 115214010,
@@ -15654,7 +16455,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 713214010,
@@ -15692,7 +16494,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 123214010,
@@ -15730,7 +16533,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800244050,
@@ -15768,7 +16572,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800244110,
@@ -15806,7 +16611,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900224030,
@@ -15844,7 +16650,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 100222010,
@@ -15882,7 +16689,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 108213010,
@@ -15920,7 +16728,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 100211050,
@@ -15958,7 +16767,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101211080,
@@ -15996,7 +16806,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101221040,
@@ -16034,7 +16845,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101221060,
@@ -16072,7 +16884,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101241020,
@@ -16110,7 +16923,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 102211040,
@@ -16148,7 +16962,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 102211050,
@@ -16186,7 +17001,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 103221020,
@@ -16224,7 +17040,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 103241010,
@@ -16262,7 +17079,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 703241010,
@@ -16300,7 +17118,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 704241010,
@@ -16338,7 +17157,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 104211030,
@@ -16376,7 +17196,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 104221020,
@@ -16414,7 +17235,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 105211010,
@@ -16452,7 +17274,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 105231020,
@@ -16490,7 +17313,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 106211030,
@@ -16528,7 +17352,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 106241020,
@@ -16566,7 +17391,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 107211010,
@@ -16604,7 +17430,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 109231020,
@@ -16642,7 +17469,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 110231020,
@@ -16680,7 +17508,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 110231030,
@@ -16718,7 +17547,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 110241030,
@@ -16756,7 +17586,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 112241030,
@@ -16794,7 +17625,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 113241020,
@@ -16832,7 +17664,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 114211020,
@@ -16870,7 +17703,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 114221010,
@@ -16908,7 +17742,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 115221010,
@@ -16946,7 +17781,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 115241030,
@@ -16984,7 +17820,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 116241020,
@@ -17022,7 +17859,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 116241030,
@@ -17060,7 +17898,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 117211020,
@@ -17098,7 +17937,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 118221020,
@@ -17136,7 +17976,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 118231010,
@@ -17174,7 +18015,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 118241010,
@@ -17212,7 +18054,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 119211010,
@@ -17250,7 +18093,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 120211030,
@@ -17288,7 +18132,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 120241010,
@@ -17326,7 +18171,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 123221010,
@@ -17364,7 +18210,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 125231030,
@@ -17402,7 +18249,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 126241030,
@@ -17437,10 +18285,11 @@
       "copyright": null,
       "base_card_id": 126241030,
       "normal_card_id": 126241030,
-      "format_type": 1,
+      "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 127221030,
@@ -17478,7 +18327,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 129241020,
@@ -17494,7 +18344,7 @@
       "skill_condition": "character=me&target=self,character=me,character=me&target=inplay&card_type=unit,{me.inplay_other_self.unit.offense.sum.or=0}+{me.inplay_other_self.unit.life.sum.or=0}>=20//character=me,character=me",
       "skill_target": "character=me&target=self,character=me&target=self,character=me&target=inplay_other_self&card_type=unit,character=me&target=self//character=me&target=inplay_self&card_type=unit,character=me&target=inplay_self&card_type=unit",
       "skill_option": "type=ep_use,add_offense={me.inplay_other_self.unit.offense.sum.or=0}&add_life={me.inplay_other_self.unit.life.sum.or=0},none,none//type=all,none",
-      "skill_preprocess": "none,none,none,none//none,none",
+      "skill_preprocess": "evolution_end_stop,none,none,none//none,none",
       "skill_disc": "Fanfare: Gain +X/+Y. X equals the total attack of all other allied followers. Y equals their total defense. Destroy all other allied followers. If X plus Y is at least 20, evolve this follower.<br>Can't be evolved using evolution points. (Can be evolved using card effects.)",
       "org_skill_disc": "[b]Fanfare[/b]: Gain +X/+Y. X equals the total attack of all other allied followers. Y equals their total defense. Destroy all other allied followers. If X plus Y is at least 20, evolve this follower.<br>Can't be evolved using evolution points. (Can be evolved using card effects.)",
       "evo_skill_disc": "Reduce damage to this follower to 0.<br>Not affected by other cards' effects, except for those that change this card's attack or defense.",
@@ -17516,7 +18366,86 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
+    },
+    {
+      "card_id": 131211030,
+      "foil_card_id": 131211031,
+      "card_set_id": 10031,
+      "card_name": "Tristan, Triumphant Knight",
+      "card_name_ruby": "",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 2,
+      "tribe_name": "Officer",
+      "skill": "rush,draw,evolve//draw,summon_token",
+      "skill_condition": "character=me,character=me&target=attacker&attacker=self,character=me//character=me&target=attacker&attacker=self,character=me",
+      "skill_target": "character=me,character=me&target=deck&card_type=all&random_count=1,character=me&target=self//character=me&target=deck&card_type=all&random_count=1,none",
+      "skill_option": "none,none,none//none,summon_token=131211030",
+      "skill_preprocess": "none,none,none//none,none",
+      "skill_disc": "Rush.<br>Fanfare: Evolve this follower.<br>Strike: Draw a card.",
+      "org_skill_disc": "[b]Rush[/b].<br>[b]Fanfare[/b]: Evolve this follower.<br>[b]Strike[/b]: Draw a card.",
+      "evo_skill_disc": "Rush.<br>Strike: Draw a card.<br>Last Words: Summon a Tristan, Triumphant Knight.",
+      "org_evo_skill_disc": "[b]Rush[/b].<br>[b]Strike[/b]: Draw a card.<br>[b]Last Words[/b]: Summon a [b]Tristan, Triumphant Knight[/b].",
+      "cost": 5,
+      "atk": 5,
+      "life": 2,
+      "evo_atk": 7,
+      "evo_life": 4,
+      "rarity": 1,
+      "get_red_ether": 10,
+      "use_red_ether": 50,
+      "description": "As a Knight of the Round Table, I have a duty to fulfill, and I will allow nothing to stop me from seeing it done. Never will I forget that there is a place for me waiting by her side!",
+      "evo_description": "The quiet pain in my chest... my thirst for everything you are... All must be suppressed to fulfill my knightly duty. I must aid my king in building his regal paradise!",
+      "cv": "",
+      "copyright": null,
+      "base_card_id": 131211030,
+      "normal_card_id": 131211030,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 1
+    },
+    {
+      "card_id": 131241020,
+      "foil_card_id": 131241021,
+      "card_set_id": 10031,
+      "card_name": "Alwida, Marine Czarina",
+      "card_name_ruby": "",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 2,
+      "tribe_name": "Commander",
+      "skill": "summon_token//destroy,quick,powerup",
+      "skill_condition": "character=me//character=me,{me.inplay.class.rally_count}>=20,{me.inplay.class.rally_count}>=20",
+      "skill_target": "none//character=op&target=inplay&card_type=unit&select_count=1,character=me,character=me&target=inplay_other_self",
+      "skill_option": "summon_token=900211050:900211040//none,none,add_offense=2&add_life=2",
+      "skill_preprocess": "none//none,none,none",
+      "skill_disc": "Fanfare: Summon a Viking and Pirate.",
+      "org_skill_disc": "[b]Fanfare[/b]: Summon a [b]Viking[/b] and [b]Pirate[/b].",
+      "evo_skill_disc": "Evolve: Destroy an enemy follower. Rally (20): Gain Storm. Give +2/+2 to all other allied followers.",
+      "org_evo_skill_disc": "[b]Evolve[/b]: Destroy an enemy follower. [b]Rally[/b] [b](20)[/b]: Gain [b]Storm[/b]. Give +2/+2 to all other allied followers.",
+      "cost": 5,
+      "atk": 3,
+      "life": 3,
+      "evo_atk": 5,
+      "evo_life": 5,
+      "rarity": 4,
+      "get_red_ether": 1000,
+      "use_red_ether": 3500,
+      "description": "I am the law of the sea! I plunder as I please, show my might, and accept no limits to my seafarin'! I am the queen—she who sees o'er the seas!",
+      "evo_description": "\"In this world—more'n anyone else—the queen does as she pleases!\"<br>\"The cap'n's mighty all right! That why I'm with 'er!\"<br>\"Alwida's out of her mind, so we never get bored!\"<br>—Alwida's band of pirates",
+      "cv": "",
+      "copyright": null,
+      "base_card_id": 131241020,
+      "normal_card_id": 131241020,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 1
     },
     {
       "card_id": 810241030,
@@ -17554,7 +18483,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900231040,
@@ -17592,7 +18522,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900231050,
@@ -17630,7 +18561,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900231060,
@@ -17668,7 +18600,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900231070,
@@ -17706,7 +18639,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900241020,
@@ -17744,7 +18678,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900241030,
@@ -17782,7 +18717,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101214020,
@@ -17820,7 +18756,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 103224010,
@@ -17858,7 +18795,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 105234010,
@@ -17896,7 +18834,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 106214010,
@@ -17934,7 +18873,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 106234010,
@@ -17972,7 +18912,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 109234010,
@@ -18010,7 +18951,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 111224010,
@@ -18048,7 +18990,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 112214010,
@@ -18086,7 +19029,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 120234010,
@@ -18124,7 +19068,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 123244010,
@@ -18162,7 +19107,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 126234010,
@@ -18197,10 +19143,11 @@
       "copyright": null,
       "base_card_id": 126234010,
       "normal_card_id": 126234010,
-      "format_type": 1,
+      "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 717234010,
@@ -18235,10 +19182,11 @@
       "copyright": null,
       "base_card_id": 126234010,
       "normal_card_id": 717234010,
-      "format_type": 1,
+      "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 129234010,
@@ -18276,7 +19224,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 810234010,
@@ -18314,7 +19263,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900224010,
@@ -18352,7 +19302,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900244010,
@@ -18390,7 +19341,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101232010,
@@ -18428,7 +19380,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 104232010,
@@ -18466,7 +19419,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 111232010,
@@ -18504,7 +19458,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 820232010,
@@ -18542,7 +19497,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 100221020,
@@ -18580,7 +19536,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101211130,
@@ -18618,7 +19575,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101211140,
@@ -18656,7 +19614,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101241010,
@@ -18694,7 +19653,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 701241010,
@@ -18732,7 +19692,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101241030,
@@ -18770,7 +19731,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 103211040,
@@ -18808,7 +19770,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 104221030,
@@ -18846,7 +19809,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 105211020,
@@ -18884,7 +19848,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 107241010,
@@ -18922,7 +19887,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 706241010,
@@ -18960,7 +19926,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 108241030,
@@ -18998,7 +19965,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 109241010,
@@ -19036,7 +20004,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 109241030,
@@ -19074,7 +20043,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 114231010,
@@ -19112,7 +20082,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 115211010,
@@ -19150,7 +20121,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 117241020,
@@ -19188,7 +20160,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 121231010,
@@ -19226,7 +20199,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 121241010,
@@ -19264,7 +20238,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 122211030,
@@ -19302,7 +20277,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 718211010,
@@ -19340,7 +20316,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 123221020,
@@ -19378,7 +20355,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 125241030,
@@ -19416,7 +20394,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 126211040,
@@ -19451,10 +20430,11 @@
       "copyright": null,
       "base_card_id": 126211040,
       "normal_card_id": 126211040,
-      "format_type": 1,
+      "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 127231020,
@@ -19492,7 +20472,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 128221020,
@@ -19530,7 +20511,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 130211020,
@@ -19568,7 +20550,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 130241010,
@@ -19606,7 +20589,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 810241020,
@@ -19644,7 +20628,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101234020,
@@ -19682,7 +20667,47 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
+    },
+    {
+      "card_id": 131214010,
+      "foil_card_id": 131214011,
+      "card_set_id": 10031,
+      "card_name": "Swashbuckling Steel",
+      "card_name_ruby": "",
+      "is_foil": 0,
+      "char_type": 4,
+      "clan": 2,
+      "tribe_name": "-",
+      "skill": "summon_token,powerup",
+      "skill_condition": "character=me,character=me",
+      "skill_target": "none,character=me&target=inplay&card_type=unit",
+      "skill_option": "summon_token=900211080:900211090:900211100,add_offense=2&add_life=2",
+      "skill_preprocess": "none,none",
+      "skill_disc": "Summon a Buccaneer, Cannoneer, and Marine Raider.<br>Give +2/+2 to all allied followers.",
+      "org_skill_disc": "Summon a [b]Buccaneer[/b], [b]Cannoneer[/b], and [b]Marine Raider[/b].<br>Give +2/+2 to all allied followers.",
+      "evo_skill_disc": "",
+      "org_evo_skill_disc": "",
+      "cost": 6,
+      "atk": 0,
+      "life": 0,
+      "evo_atk": 0,
+      "evo_life": 0,
+      "rarity": 1,
+      "get_red_ether": 10,
+      "use_red_ether": 50,
+      "description": "You there! Either gimme your money or gimme your life! Better yet, just gimme both!",
+      "evo_description": "",
+      "cv": "",
+      "copyright": null,
+      "base_card_id": 131214010,
+      "normal_card_id": 131214010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 1
     },
     {
       "card_id": 101231040,
@@ -19720,7 +20745,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 102221040,
@@ -19758,7 +20784,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 104241010,
@@ -19796,7 +20823,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 107241020,
@@ -19834,7 +20862,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 111221010,
@@ -19872,7 +20901,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 111231020,
@@ -19910,7 +20940,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 111241010,
@@ -19948,7 +20979,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 112231030,
@@ -19986,7 +21018,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900231100,
@@ -20024,7 +21057,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 112241020,
@@ -20062,7 +21096,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 113231020,
@@ -20100,7 +21135,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 113241010,
@@ -20138,7 +21174,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 114241010,
@@ -20176,7 +21213,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 116241010,
@@ -20214,7 +21252,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 119231020,
@@ -20252,7 +21291,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 119241030,
@@ -20290,7 +21330,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 122241010,
@@ -20328,7 +21369,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 123231010,
@@ -20366,7 +21408,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 717231010,
@@ -20404,7 +21447,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 124211030,
@@ -20442,7 +21486,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 124231020,
@@ -20480,7 +21525,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 127241020,
@@ -20518,7 +21564,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 128241020,
@@ -20556,7 +21603,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 129211020,
@@ -20594,7 +21642,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 130231020,
@@ -20632,7 +21681,8 @@
       "format_type": 1,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 810231010,
@@ -20670,7 +21720,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 810241010,
@@ -20708,7 +21759,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900241070,
@@ -20746,7 +21798,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 122234010,
@@ -20784,7 +21837,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800244040,
@@ -20822,7 +21876,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 800244080,
@@ -20860,7 +21915,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900242010,
@@ -20898,7 +21954,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101221110,
@@ -20936,7 +21993,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 101231020,
@@ -20974,7 +22032,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 102241010,
@@ -21012,7 +22071,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 103231030,
@@ -21050,7 +22110,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 104231030,
@@ -21088,7 +22149,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 105241020,
@@ -21126,7 +22188,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 106211020,
@@ -21164,7 +22227,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 108241020,
@@ -21202,7 +22266,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 109241020,
@@ -21240,7 +22305,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 116211030,
@@ -21278,7 +22344,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 119211030,
@@ -21316,7 +22383,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 119241010,
@@ -21354,7 +22422,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 120241030,
@@ -21392,7 +22461,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 125241010,
@@ -21430,7 +22500,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900241060,
@@ -21468,7 +22539,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900242040,
@@ -21506,7 +22578,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 102231030,
@@ -21544,7 +22617,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 110241020,
@@ -21582,7 +22656,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 117211010,
@@ -21620,7 +22695,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 124211020,
@@ -21658,7 +22734,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 900232010,
@@ -21696,7 +22773,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 111241030,
@@ -21734,7 +22812,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     },
     {
       "card_id": 711241010,
@@ -21772,7 +22851,8 @@
       "format_type": 0,
       "restricted_count": 3,
       "restricted_count_co_main": 3,
-      "restricted_count_co_sub": 3
+      "restricted_count_co_sub": 3,
+      "resurgent_card": 0
     }
   ],
   "errors": []
