@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="svportal",
-    version="33.9",
+    version="33.10",
     license="MIT License",
     author="Zhao Tang",
     author_email="zxt@zhaotang.ca",
@@ -18,6 +18,6 @@ setuptools.setup(
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
-        "Topic :: Games/Entertainment"
+        "Topic :: Games/Entertainment",
     ],
 )
